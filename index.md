@@ -81,13 +81,17 @@ Experienced Healthcare IT and Data Analyst professional with a strong foundation
 - 🎓 **UPE International Honor Society**  
   Florida International University
 
-## 📝 Recent Blog Posts
+---
+
+## 📚 Latest Insights & Reflections
+
+Stay updated with my recent thoughts and discoveries:
 
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <a href="{{ post.url }}">{{ post.title }}</a> 
+      <small>– {{ post.date | date: "%B %d, %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
