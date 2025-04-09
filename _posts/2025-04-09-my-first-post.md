@@ -12,7 +12,7 @@ image: /assets/img/blog-post-header.jpg
 Hi, I'm Ming Chu - a data analyst specializing in machine learning and healthcare IT. 
 Welcome to my blog, where I'll share my insights, analysis, and professional reflections.
 
-![Introductory Image](/assets/img/headshot.png)
+![Introductory Image](/assets/img/intro_pic.png)
 
 ## Why This Blog?
 
