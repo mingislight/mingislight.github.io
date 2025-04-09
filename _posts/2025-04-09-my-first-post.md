@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "My First Post"
+title: "A New Chapter: My Journey into Blogging"
 date: 2025-04-09
 author: Ming Chu
 tags: [Machine Learning, Data Analysis, Healthcare IT]
 image: /assets/img/blog-post-header.jpg
 ---
 
-## Welcome to My First Post
+## Welcome to My New Chapter
 
 Hi, I'm Ming Chu - a data analyst specializing in machine learning and healthcare IT. 
 Welcome to my blog, where I'll share my insights, analysis, and professional reflections.
