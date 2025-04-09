@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First-Author Publication on Driver Behavior Using Computer Vision and Machine Learning"
-date: 2025-04-09
+title: "Improving Driver Safety with Computer Vision and Deep Learning"
+date: 2024-02-14
 author: Ming Chu
 tags: [Computer Vision, Machine Learning, Autonomous Vehicles, Research]
 image: /assets/img/driver-behavior-monitoring.png
