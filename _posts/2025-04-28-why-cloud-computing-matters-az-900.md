@@ -7,13 +7,15 @@ tags: [Cloud Computing, Azure, Healthcare IT, Data Analysis]
 image: /assets/img/az900-certification.png
 ---
 
+![Introductory Image](/assets/img/az900-certification.png)
+
 ## 🌐 Cloud Computing: The New Foundation for Modern Work
 
 Today, most organizations, including hospitals, schools, and businesses, rely heavily on cloud computing. 
 The Cloud Service means to use the internet to access tools, storage, and services, instead of depending **only** on physical machines we own.
 The three major cloud computing platforms are Azure, AWS, and Google Cloud.
 
-The cloud offers many advantanges: flexibility, security, global access, and the ability to scale or adapt easily.  
+The cloud offers many advantanges: **flexibility**, **security**, **global access***, and **the ability to scale or adapt easily**.  
 It has become the backbone of today's workpace.
 
 ## 📚 Essential Truths from AZ-900
