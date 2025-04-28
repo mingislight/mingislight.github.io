@@ -9,7 +9,7 @@ image: /assets/img/az900-certification.png
 
 ![Introductory Image](/assets/img/az900-certification.png)
 
-## 🌐 Cloud Computing: The New Foundation for Modern Work
+## Cloud Computing: The New Foundation for Modern Work
 
 Today, most organizations, including hospitals, schools, and businesses, rely heavily on cloud computing. 
 The Cloud Service means to use the internet to access tools, storage, and services, instead of depending **only** on physical machines we own.
