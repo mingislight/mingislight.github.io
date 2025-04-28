@@ -15,8 +15,8 @@ Today, most organizations, including hospitals, schools, and businesses, rely he
 The Cloud Service means to use the internet to access tools, storage, and services, instead of depending **only** on physical machines we own.
 The three major cloud computing platforms are Azure, AWS, and Google Cloud.
 
-The cloud offers many advantanges: **flexibility**, **security**, **global access***, and **the ability to scale or adapt easily**.  
-It has become the backbone of today's workpace.
+The cloud offers many advantages: **flexibility**, **security**, **global access**, and **the ability to scale or adapt easily**.  
+It has become the backbone of today's workplace.
 
 ## 📚 Essential Truths from AZ-900
 
@@ -44,7 +44,7 @@ The cloud lets us adapt quickly without waiting months for new hardware or updat
 
 ## 🔒 Security, Compliance, and Trust in the Cloud
 
-Security is at heart of healthcare IT.  
+Security is at the heart of healthcare IT.  
 Cloud platforms offer **encryption**, **multi-factor authentication (2FA)**, **Passwordless Sign-in Options** such as **Windows Hello**, and **data governance** to protect patients' and providers' information.
 
 From my studies in machine learning and data science, I understand that: data must be protected at every stage — storage, transit, and usage.  
@@ -68,7 +68,7 @@ So understanding the cloud identity, service health, and backup strategies is es
 
 Passing AZ-900 was just the beginning.  
 It showed me how cloud technology, when used wisely, can be beneficial to all healthcare organizations.
-I am committed to continue this journey: growing deeper in cloud knowledge, building stronger fundations in computer science, and applying machine learning skills in daily work.
+I am committed to continue this journey: growing deeper in cloud knowledge, building stronger foundations in computer science, and applying machine learning skills in daily work.
 
 ## 📝 Final Reflection
 
