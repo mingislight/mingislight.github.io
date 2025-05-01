@@ -8,7 +8,7 @@ permalink: /
 # **Ming Chu**  
 Healthcare IT & Machine‑Learning Professional
 
-📍 Bozeman, Montana • 📧 [Email](mailto:mingcomputerscience@gmail.com) • 💻 [GitHub](https://github.com/your-github) • 🔗 [LinkedIn](https://www.linkedin.com/in/mingislight)
+📍 Bozeman, Montana • 📧 [Email](mailto:mingcomputerscience@gmail.com) • 💻 [GitHub](https://github.com/mingislight) • 🔗 [LinkedIn](https://www.linkedin.com/in/mingislight)
 
 ---
 
