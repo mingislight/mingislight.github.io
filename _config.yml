@@ -1,3 +1,8 @@
-title: Ming Chu
+title: "Ming Chu — Healthcare IT & Machine Learning"
+description: "Healthcare IT & machine-learning professional blending frontline support with data-driven innovation to improve patient care."
 logo: /assets/img/headshot.png
 theme: jekyll-theme-minimal
+url: "https://mingislight.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
