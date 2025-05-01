@@ -47,7 +47,7 @@ Built a CNN + BiLSTM model (**99.1 % accuracy**) to flag driver distractio
 Created real‑time Twitter sentiment pipeline (RNN/LSTM) with push alerts for market shifts.
 
 ### Healthcare IT Service Desk
-Resolved 100+ weekly tickets and authored concise KB docs, cutting average resolution time **30 %**.
+Resolved 100+ weekly tickets and authored concise Jira docs, cutting average resolution time **30 %**.
 
 ---
 
