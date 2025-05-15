@@ -1,5 +1,5 @@
 # Ming Chu  
-**Data Analyst | Machine Learning Researcher | Healthcare IT Specialist**
+**Healthcare IT Specialist | Machine Learning Researcher**
 
 📍 Bozeman, Montana  
 📧 [mingcomputerscience@gmail.com](mailto:mingcomputerscience@gmail.com)  
