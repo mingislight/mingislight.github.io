@@ -21,7 +21,7 @@ I bridge **front-line healthcare IT** with **predictive analytics**, turning raw
 ## 🎓 Education
 
 - **M.S. Computer Science (Big Data Analysis)** — *Florida Atlantic University, 2024* | *GPA 4.0/4.0*  
-- **B.A. Computer Science (Minor Applied Mathematics)** — *Florida International University, 2020* | *UPE Honor Society*
+- **B.A. Computer Science (Applied Mathematics)** — *Florida International University, 2020* | *UPE Honor Society*
 
 ---
 
