@@ -59,11 +59,11 @@ Resolved 100+ weekly tickets and authored 30+ Jira KB docs, cutting average reso
 
 ## 🧾 Certifications
 
-- Microsoft **AZ-900** (2025)  
+- Microsoft **Azure Fundamentals (AZ-900)** (2025)  
 - Graduate Certificate **Big Data Analytics** (2024)  
 - IBM **Machine Learning Specialist – Associate** (2022)  
-- **DP-100** (in progress)  
-- Google **Professional MLE** (planned)
+- Microsoft **Azure Data Scientist (DP-100)** (in progress)  
+- Google **Professional Machine Learning Engineer (MLE)** (planned)
 
 ---
 
