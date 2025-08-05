@@ -79,7 +79,7 @@ Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducin
 ## ✍️ Latest Posts
 
 <ul>
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:10 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> <small>– {{ post.date | date: "%B %d, %Y" }}</small></li>
   {% endfor %}
 </ul>
