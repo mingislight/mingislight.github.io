@@ -11,9 +11,11 @@ image: /assets/img/az900-certification.png
 
 ## Cloud Computing: The New Foundation for Modern Work
 
+Cloud computing is transforming how we work, communicate, and protect information. In healthcare, its impact is immediate and life-supporting.
+
 Today, most organizations, including hospitals, schools, and businesses, rely heavily on cloud computing. 
-The Cloud Service means to use the internet to access tools, storage, and services, instead of depending **only** on physical machines we own.
-The three major cloud computing platforms are Azure, AWS, and Google Cloud.
+Cloud computing means using the internet to access tools, storage, and services instead of relying **only** on local physical machines.
+The three major cloud computing platforms are Microsoft Azure, Amazon AWS, and Google Cloud.
 
 The cloud offers many advantages: **flexibility**, **security**, **global access**, and **the ability to scale or adapt easily**.  
 It has become the backbone of today's workplace.
@@ -23,7 +25,7 @@ It has become the backbone of today's workplace.
 In my AZ-900 studies, I learned that cloud computing is based on these five clear and fundamental principles:
 1. **Scalability** — the ability to handle more users or storage without the need to rebuild the whole systems.
 2. **Shared Responsibility Model** — the cloud provider secures the platform, and we secure how we use it.  
-3. **Availability** - Cloud keeps systems running even during failures
+3. **Availability** — keeps systems running even during failures.
 4. **Cost Efficiency** - "Only pay for what you use, no waste."
 5. **Security Compliance** - "Built-in tools help meet strict data protection laws."
 
@@ -31,7 +33,7 @@ In my AZ-900 studies, I learned that cloud computing is based on these five clea
 
 ## How Cloud Services Strengthen Bozeman Health
 
-At Bozeman Health, cloud services are essential for our daily operations.  
+At **Bozeman Health**, cloud services are essential for our daily operations.  
 We use them for communication, storage, secure sign-ins, learning, and project collaboration.
 By combining our private systems with public cloud services, we build a **hybrid** cloud, balancing both **reliability** and **innovation**.
 
@@ -56,7 +58,7 @@ Cloud services make daily work easier and safer.
 Staff can securely access files, collaborate easily, and stay up-to-date automatically.
 The cloud service companies support people quietly, allowing them to focus on what matters most.
 
-## Lessons I See Every Day on the IT Helpdesk
+## Lessons I See Every Day on the IT ServiceDesk
 
 On the Service Desk, cloud understanding helps me solve problems faster and more calmly.  
 Many issues, including account issues, file recoveries, and application access, often trace back to the cloud systems.
@@ -75,5 +77,7 @@ I am committed to continue this journey: growing deeper in cloud knowledge, buil
 Cloud computing is about strengthening the current systems to support life, work, and care.
 I am thankful to be growing at Bozeman Health.  
 Step by step, let's keep on walking this walk.
+
+If you are exploring cloud technologies in healthcare or IT, I’d love to share and learn together. Feel free to connect with me.
 
 [← Back to Blog](/blog)
