@@ -1,13 +1,14 @@
-/* Sidebar styling */
+/* ===== Sidebar Card Style ===== */
 .sidebar {
-    width: 220px !important;        /* Slightly wider for full profile info */
-    padding: 25px 20px;
+    width: 240px !important;       /* Slightly wider for readability */
+    padding: 30px 20px;
     font-size: 14px;
-    background-color: #fafafa;      /* Subtle light background */
-    border-right: 1px solid #eee;   /* Divider from main content */
-    height: 100vh;                  /* Full height */
-    position: fixed;                /* Stays in place while scrolling */
-    overflow-y: auto;               /* Scroll if sidebar content is tall */
+    background-color: #ffffff;     /* Clean white card */
+    border-right: 1px solid #eee;
+    height: 100vh;
+    position: fixed;
+    overflow-y: auto;
+    box-shadow: 2px 0 10px rgba(0,0,0,0.05); /* Subtle right-side shadow */
 }
 
 /* Profile image styling */
@@ -16,16 +17,19 @@
     display: block;
     margin: 0 auto 15px;
     border-radius: 50%;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    border: 3px solid #f3f3f3;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1); /* Soft depth */
 }
 
-/* Sidebar text */
+/* Name styling */
 .sidebar .name {
-    font-size: 20px;
+    font-size: 22px;
     text-align: center;
-    margin: 5px 0;
+    margin: 10px 0 5px;
+    font-weight: 700;
 }
 
+/* Role / subtitle */
 .sidebar .role {
     font-size: 14px;
     color: #777;
@@ -33,48 +37,55 @@
     margin-bottom: 15px;
 }
 
+/* Short bio */
 .sidebar .bio {
     font-size: 13px;
     color: #555;
     text-align: center;
     margin-bottom: 15px;
+    line-height: 1.5;
 }
 
+/* Contact links */
 .sidebar .contact {
     font-size: 13px;
     color: #333;
     line-height: 1.6;
     text-align: center;
+    margin-top: 10px;
 }
 
 .sidebar .contact a {
     color: #0366d6;
     text-decoration: none;
+    font-weight: 500;
 }
 
 .sidebar .contact a:hover {
     text-decoration: underline;
 }
 
-/* Main content area */
+/* ===== Main Content Area ===== */
 .wrap {
-    margin-left: 240px !important;  /* Account for sidebar width + spacing */
-    max-width: 960px !important;    /* Wider main content */
-    padding: 40px;                  /* Comfortable reading padding */
+    margin-left: 260px !important;  /* Account for sidebar width + spacing */
+    max-width: 960px !important;
+    padding: 50px 40px;
 }
 
 /* Headings in main content */
-.wrap h1:first-of-type {
-    margin-top: 0;
-}
-
 .wrap h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     margin-top: 40px;
 }
 
-/* Responsive layout for mobile */
+/* Paragraph spacing for better readability */
+.wrap p {
+    line-height: 1.6;
+    margin: 0.5em 0;
+}
+
+/* ===== Mobile-friendly Layout ===== */
 @media screen and (max-width: 768px) {
     .sidebar {
         position: static;
@@ -83,6 +94,7 @@
         text-align: center;
         border-right: none;
         border-bottom: 1px solid #eee;
+        box-shadow: none;
     }
 
     .wrap {
