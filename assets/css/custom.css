@@ -1,39 +1,97 @@
 /* Sidebar styling */
 .sidebar {
-    width: 180px !important;  /* Narrower sidebar */
-    padding: 20px;
+    width: 220px !important;        /* Slightly wider for full profile info */
+    padding: 25px 20px;
     font-size: 14px;
+    background-color: #fafafa;      /* Subtle light background */
+    border-right: 1px solid #eee;   /* Divider from main content */
+    height: 100vh;                  /* Full height */
+    position: fixed;                /* Stays in place while scrolling */
+    overflow-y: auto;               /* Scroll if sidebar content is tall */
+}
+
+/* Profile image styling */
+.profile-pic {
+    width: 120px;
+    display: block;
+    margin: 0 auto 15px;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
+/* Sidebar text */
+.sidebar .name {
+    font-size: 20px;
+    text-align: center;
+    margin: 5px 0;
+}
+
+.sidebar .role {
+    font-size: 14px;
+    color: #777;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.sidebar .bio {
+    font-size: 13px;
+    color: #555;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.sidebar .contact {
+    font-size: 13px;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+}
+
+.sidebar .contact a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.sidebar .contact a:hover {
+    text-decoration: underline;
 }
 
 /* Main content area */
 .wrap {
-    margin-left: 200px !important; /* Slightly larger than sidebar */
-    max-width: 960px !important;   /* Wider main content */
-    padding: 30px;                  /* Inner spacing for text */
+    margin-left: 240px !important;  /* Account for sidebar width + spacing */
+    max-width: 960px !important;    /* Wider main content */
+    padding: 40px;                  /* Comfortable reading padding */
 }
 
-/* First title in main content with extra top space */
+/* Headings in main content */
 .wrap h1:first-of-type {
+    margin-top: 0;
+}
+
+.wrap h2 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
     margin-top: 40px;
 }
 
-/* Profile image smaller and centered */
-.sidebar img {
-    width: 100px;
-    display: block;
-    margin: 0 auto 10px;
-    border-radius: 50%;
-}
-
-/* Mobile-friendly layout */
+/* Responsive layout for mobile */
 @media screen and (max-width: 768px) {
     .sidebar {
+        position: static;
         width: 100% !important;
+        height: auto;
         text-align: center;
+        border-right: none;
+        border-bottom: 1px solid #eee;
     }
+
     .wrap {
         margin-left: 0 !important;
         max-width: 100% !important;
         padding: 20px;
+    }
+
+    .profile-pic {
+        width: 100px;
     }
 }
