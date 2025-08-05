@@ -9,7 +9,7 @@ description: "A one-year reflection on my journey in the Healthcare IT Service D
 keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflection"
 ---
 
-![Introductory Image](/assets/img/service-desk.png)
+![Introductory Image](/assets/img/service_desk.png)
 
 ## Service Desk: The Triage of Healthcare IT
 
