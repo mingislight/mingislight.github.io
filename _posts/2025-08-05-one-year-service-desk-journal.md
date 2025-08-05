@@ -9,6 +9,8 @@ description: "A one-year reflection on my journey in the Healthcare IT Service D
 keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflection"
 ---
 
+![Introductory Image](/assets/img/service-desk.png)
+
 ## Service Desk: The Triage of Healthcare IT
 
 After one year serving at the **Bozeman Health IT Service Desk**, I **appreciate being part of the triage team in Healthcare IT**:
