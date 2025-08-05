@@ -83,7 +83,7 @@ Most importantly, it reminded me that **research is meaningful when it saves liv
 
 ## 📄 Read the Full Paper
 
-You can access the full study here:  
+You can access the full study by clicking here 👇:  
 [**Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques**](https://link.springer.com/article/10.1186/s40537-024-00890-0)
 
 ---
