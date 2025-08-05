@@ -14,15 +14,28 @@
   {{ site.head }}
 </head>
 <body>
+  <!-- Sidebar -->
   <div class="sidebar">
     {% if site.logo %}
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" style="max-width:100%;border-radius:50%;">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-pic">
     {% endif %}
-    <h2>{{ site.title }}</h2>
-    <p>{{ site.description }}</p>
-    <a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+
+    <h2 class="name">{{ site.title }}</h2>
+    <p class="role">Healthcare IT & Machine Learning</p>
+
+    <p class="bio">
+      Professional blending frontline support with data-driven innovation to improve patient care.
+    </p>
+
+    <div class="contact">
+      <p>📍 Bozeman, Montana</p>
+      <p>✉️ <a href="mailto:your-email@example.com">Email</a></p>
+      <p>💻 <a href="https://github.com/mingislight">GitHub</a></p>
+      <p>🔗 <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a></p>
+    </div>
   </div>
 
+  <!-- Main Content -->
   <div class="wrap">
     {{ content }}
   </div>
