@@ -85,6 +85,3 @@ Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducin
 </ul>
 
 ---
-
-*Site built with Jekyll & hosted on GitHub Pages.*  
-© {{ "now" | date: "%Y" }} Ming Chu
