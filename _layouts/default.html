@@ -20,18 +20,31 @@
       <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-pic">
     {% endif %}
 
+    <!-- Name -->
     <h2 class="name">{{ site.title }}</h2>
+
+    <!-- Role (short title under name) -->
     <p class="role">Healthcare IT & Machine Learning</p>
 
-    <p class="bio">
-      Professional blending frontline support with data-driven innovation to improve patient care.
-    </p>
+    <!-- Bio / Description -->
+    {% if site.description %}
+      <p class="bio">{{ site.description }}</p>
+    {% endif %}
 
+    <!-- Contact Info from _config.yml -->
     <div class="contact">
-      <p>📍 Bozeman, Montana</p>
-      <p>✉️ <a href="mailto:your-email@example.com">Email</a></p>
-      <p>💻 <a href="https://github.com/mingislight">GitHub</a></p>
-      <p>🔗 <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a></p>
+      {% if site.location %}
+        <p>📍 {{ site.location }}</p>
+      {% endif %}
+      {% if site.email %}
+        <p>✉️ <a href="mailto:{{ site.email }}">Email</a></p>
+      {% endif %}
+      {% if site.github_username %}
+        <p>💻 <a href="https://github.com/{{ site.github_username }}">GitHub</a></p>
+      {% endif %}
+      {% if site.linkedin_url %}
+        <p>🔗 <a href="{{ site.linkedin_url }}">LinkedIn</a></p>
+      {% endif %}
     </div>
   </div>
 
