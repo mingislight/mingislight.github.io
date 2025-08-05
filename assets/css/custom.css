@@ -1,0 +1,20 @@
+/* Reduce sidebar width and expand main content */
+.sidebar {
+    width: 180px !important;   /* Default might be ~250px */
+}
+
+.wrap {
+    margin-left: 200px !important; /* Slightly bigger than sidebar */
+    max-width: 900px;               /* Make content area wider */
+}
+
+@media screen and (max-width: 768px) {
+    /* On mobile, keep it full width */
+    .sidebar {
+        width: 100% !important;
+    }
+    .wrap {
+        margin-left: 0 !important;
+        max-width: 100% !important;
+    }
+}
