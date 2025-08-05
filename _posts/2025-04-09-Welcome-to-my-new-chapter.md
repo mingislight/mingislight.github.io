@@ -5,12 +5,13 @@ date: 2025-04-09
 author: Ming Chu
 tags: [Machine Learning, Data Analysis, Healthcare IT]
 image: /assets/img/blog-post-header.jpg
+description: "Machine learning and healthcare IT insights from Ming Chu – exploring data analytics, tutorials, and real-world reflections."
 ---
 
 ## Welcome to My New Chapter
 
-Hi, I'm Ming Chu - a data analyst specializing in machine learning and healthcare IT. 
-Welcome to my blog, where I'll share my insights, analysis, and professional reflections.
+Hi, I'm **Ming Chu** — a data analyst specializing in **machine learning** and **healthcare IT**.  
+Welcome to my blog, where I'll share **insights, analysis, and professional reflections**.
 
 ![Introductory Image](/assets/img/intro_pic.png)
 
@@ -32,5 +33,6 @@ Regular posts covering:
 ## Stay Tuned!
 
 Feel free to reach out with questions or comments.
+I look forward to sharing this journey and learning together with you.
 
 [← Back to Blog](/blog)
