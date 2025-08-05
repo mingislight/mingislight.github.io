@@ -5,16 +5,10 @@ description: "Healthcare IT & machine-learning professional blending frontline s
 permalink: /
 ---
 
-# **Ming Chu**  
-Healthcare IT & Machine-Learning
-
-📍 Bozeman, Montana  •  📧 [Email](mailto:mingcomputerscience@gmail.com)  •  💻 [GitHub](https://github.com/mingislight)  •  🔗 [LinkedIn](https://www.linkedin.com/in/mingislight)
-
----
-
 ## 🧠 Professional Summary
 
-I bridge **front-line healthcare IT** with **predictive analytics**, turning raw data into actionable insight that reduces downtime and elevates patient-care quality.
+I bridge **front-line healthcare IT** with **predictive analytics**, turning raw data into actionable insight that reduces downtime and elevates patient-care quality.  
+My work integrates **Epic EHR support**, **cloud computing**, and **machine learning** to improve healthcare operations and patient outcomes.
 
 ---
 
@@ -40,14 +34,14 @@ I bridge **front-line healthcare IT** with **predictive analytics**, turning raw
 ## 💼 Selected Projects
 
 ### Driver Behavior Detection System  
-Built a CNN + BiLSTM model (**99.1 % accuracy**) to flag driver distraction and deployed with OpenCV.  
+Developed a CNN + BiLSTM pipeline (**99.1 % accuracy**) to detect driver distraction and drowsiness in real time using **OpenCV**.  
 [*Journal of Big Data* (2024)](https://doi.org/10.1186/s40537-024-00890-0)
 
 ### AI Stock Sentiment Analysis  
-Created real-time Twitter sentiment pipeline (RNN/LSTM) achieving **85 % bullish-signal precision** and push alerts for timely trades.
+Built a **real-time Twitter sentiment pipeline** (RNN/LSTM) achieving **85 % bullish-signal precision** with live push alerts.
 
 ### Healthcare IT Service Desk  
-Resolved 100+ weekly tickets and authored 30+ Jira KB docs, cutting average resolution time **30 %**.
+Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducing resolution time by 30 %**.
 
 ---
 
@@ -62,8 +56,8 @@ Resolved 100+ weekly tickets and authored 30+ Jira KB docs, cutting average reso
 - Microsoft **Azure Fundamentals (AZ-900)** (2025)  
 - Graduate Certificate **Big Data Analytics** (2024)  
 - IBM **Machine Learning Specialist – Associate** (2022)  
-- Microsoft **Azure Data Scientist (DP-100)** (in progress)  
-- Google **Professional Machine Learning Engineer (MLE)** (planned)
+- Microsoft **Azure Data Scientist (DP-100)** *(in progress)*  
+- Google **Professional Machine Learning Engineer (MLE)** *(planned)*
 
 ---
 
