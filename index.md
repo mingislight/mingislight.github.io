@@ -14,8 +14,16 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
 
 ## 🎓 Education
 
-- **M.S. Computer Science (Big Data Analysis)** — *Florida Atlantic University, 2024* | *GPA 4.0/4.0*  
-- **B.A. Computer Science (Applied Mathematics)** — *Florida International University, 2020* | *UPE Honor Society*
+<table style="width:100%">
+  <tr>
+    <td><strong>M.S. Computer Science (Big Data Analysis)</strong> — <em>Florida Atlantic University, 2024</em></td>
+    <td style="text-align:right;">GPA 4.0/4.0</td>
+  </tr>
+  <tr>
+    <td><strong>B.A. Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
+    <td style="text-align:right;">UPE Honor Society</td>
+  </tr>
+</table>
 
 ---
 
