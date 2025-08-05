@@ -1,20 +1,39 @@
-/* Reduce sidebar width and expand main content */
+/* Sidebar styling */
 .sidebar {
-    width: 180px !important;   /* Default might be ~250px */
+    width: 180px !important;  /* Narrower sidebar */
+    padding: 20px;
+    font-size: 14px;
 }
 
+/* Main content area */
 .wrap {
-    margin-left: 200px !important; /* Slightly bigger than sidebar */
-    max-width: 900px;               /* Make content area wider */
+    margin-left: 200px !important; /* Slightly larger than sidebar */
+    max-width: 960px !important;   /* Wider main content */
+    padding: 30px;                  /* Inner spacing for text */
 }
 
+/* First title in main content with extra top space */
+.wrap h1:first-of-type {
+    margin-top: 40px;
+}
+
+/* Profile image smaller and centered */
+.sidebar img {
+    width: 100px;
+    display: block;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+}
+
+/* Mobile-friendly layout */
 @media screen and (max-width: 768px) {
-    /* On mobile, keep it full width */
     .sidebar {
         width: 100% !important;
+        text-align: center;
     }
     .wrap {
         margin-left: 0 !important;
         max-width: 100% !important;
+        padding: 20px;
     }
 }
