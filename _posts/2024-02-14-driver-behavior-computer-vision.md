@@ -4,10 +4,12 @@ title: "Improving Driver Safety with Computer Vision and Deep Learning"
 date: 2024-02-14
 author: Ming Chu
 tags: [Computer Vision, Machine Learning, Autonomous Vehicles, Research]
-image: /assets/img/driver-behavior-monitoring.png
+image: /assets/img/driver-behavior-classification.png
 description: "First-author research on driver behavior monitoring using deep learning and computer vision, enhancing road safety and advancing autonomous vehicle technology."
 keywords: "driver safety, computer vision, deep learning, machine learning, LSTM, BiLSTM, autonomous vehicles, driver monitoring system"
 ---
+
+![Driver Behavior Classification Overview](/assets/img/driver-behavior-classification.png)
 
 I'm excited to share a personal milestone — my **first-author research paper** has been published in the [Journal of Big Data (Springer Open)](https://link.springer.com/article/10.1186/s40537-024-00890-0), titled:
 
@@ -15,14 +17,14 @@ I'm excited to share a personal milestone — my **first-author research paper**
 
 ---
 
-## 📖 Brief Overview
+##  Brief Overview
 
 In this study, we explored how **artificial intelligence**, specifically **computer vision and deep learning**, can improve road safety.  
 Our goal was to **monitor driver behavior in real time** and detect issues like **distraction or fatigue** before they become dangerous.
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 We combined several **machine learning techniques**:
 
@@ -34,7 +36,7 @@ Together, these models could detect **eye movements, hand positions, and posture
 
 ---
 
-## 🎯 Key Findings
+##  Key Findings
 
 - Built a **real-time driver behavior monitoring system**.  
 - Detected **distracted and drowsy driving** effectively.  
@@ -42,7 +44,7 @@ Together, these models could detect **eye movements, hand positions, and posture
 
 ---
 
-## 🌍 Why This Research Matters
+##  Why This Research Matters
 
 Driver behavior is a **critical factor in road safety**.  
 By continuously monitoring behavior using **AI-driven computer vision**, we can:
@@ -53,7 +55,7 @@ By continuously monitoring behavior using **AI-driven computer vision**, we can:
 
 ---
 
-## 🎥 Watch My 3MT Presentation
+##  Watch My 3MT Presentation
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
   <iframe 
@@ -69,7 +71,7 @@ By continuously monitoring behavior using **AI-driven computer vision**, we can:
 
 ---
 
-## 💡 Personal Reflections
+##  Personal Reflections
 
 Being first author on this paper was a **huge growth experience**:
 
@@ -81,7 +83,7 @@ Most importantly, it reminded me that **research is meaningful when it saves liv
 
 ---
 
-## 📄 Read the Full Paper
+##  Read the Full Paper
 
 You can access the full study by clicking here 👇:  
 [**Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques**](https://link.springer.com/article/10.1186/s40537-024-00890-0)
