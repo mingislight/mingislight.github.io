@@ -23,7 +23,7 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
 
 | **Category**             | **Stack / Tools**                                   |
 |--------------------------|-----------------------------------------------------|
-| Languages                | Python · SQL · JavaScrip                            |
+| Languages                | Python · SQL · JavaScript                            |
 | ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
 | Cloud / DevOps           | Azure ML · Git · Jupyter · Jira                      |
 | Healthcare IT / EMR      | Epic EHR support · Technical troubleshooting         |
