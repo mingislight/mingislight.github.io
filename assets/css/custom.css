@@ -85,6 +85,15 @@
     margin: 0.5em 0;
 }
 
+/* Images and iframes centered */
+.wrap img,
+.wrap iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
 /* ===== Mobile-friendly Layout ===== */
 @media screen and (max-width: 768px) {
     .sidebar {
@@ -95,12 +104,21 @@
         border-right: none;
         border-bottom: 1px solid #eee;
         box-shadow: none;
+        padding: 20px;
     }
 
     .wrap {
-        margin-left: 0 !important;
-        max-width: 100% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        max-width: 95% !important;
         padding: 20px;
+        text-align: center; /* Center text on mobile */
+    }
+
+    .wrap img,
+    .wrap iframe {
+        display: block;
+        margin: 20px auto;
     }
 
     .profile-pic {
