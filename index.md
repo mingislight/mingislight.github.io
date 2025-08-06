@@ -41,15 +41,28 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
 
 ## 💼 Selected Projects
 
-### Driver Behavior Detection System  
-Developed a CNN + BiLSTM pipeline (**99.1 % accuracy**) to detect driver distraction and drowsiness in real time using **OpenCV**.  
-[*Journal of Big Data* (2024)](https://doi.org/10.1186/s40537-024-00890-0)
+<table style="width:100%">
+  <tr>
+    <td><strong>Driver Behavior Detection System</strong></td>
+    <td>
+      Developed a CNN + BiLSTM pipeline (**99.1% accuracy**) to detect driver distraction and drowsiness in real time using **OpenCV**.  
+      <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank">Journal of Big Data (2024)</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI Stock Sentiment Analysis</strong></td>
+    <td>
+      Built a **real-time Twitter sentiment pipeline** (RNN/LSTM) achieving **85% bullish-signal precision** with live push alerts.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Healthcare IT Service Desk</strong></td>
+    <td>
+      Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducing resolution time by 30%**.
+    </td>
+  </tr>
+</table>
 
-### AI Stock Sentiment Analysis  
-Built a **real-time Twitter sentiment pipeline** (RNN/LSTM) achieving **85 % bullish-signal precision** with live push alerts.
-
-### Healthcare IT Service Desk  
-Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducing resolution time by 30 %**.
 
 ---
 
