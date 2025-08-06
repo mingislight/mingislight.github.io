@@ -8,11 +8,12 @@ permalink: /
 ## 🧠 Professional Summary
 
 I bridge **front-line healthcare IT** with **predictive analytics**, turning raw data into actionable insight that reduces downtime and elevates patient-care quality.  
-My work integrates **Epic EHR support**, **cloud computing**, and **machine learning** to improve healthcare operations and patient outcomes.
+My work integrates **Epic EHR support**, **cloud computing**, and **machine learning** to improve healthcare operations and patient outcomes.  
+I am building expertise in **clinical data, cloud solutions, and AI-driven analytics** to enhance patient care and operational efficiency.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Honors
 
 <table style="width:100%">
   <tr>
@@ -25,6 +26,10 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
   </tr>
 </table>
 
+** 🏆 Honors**  
+- 🥉 *3-Minute Thesis* — 2nd Runner-Up, FAU (2024)  
+- 🎓 **UPE Honor Society** — FIU
+
 ---
 
 ## 🛠️ Core Skills
@@ -32,9 +37,9 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
 | **Category**             | **Stack / Tools**                                   |
 |--------------------------|-----------------------------------------------------|
 | Languages                | Python · SQL · JavaScript                            |
-| ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
+| ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV · Power BI |
 | Cloud / DevOps           | Azure ML · Git · Jupyter · Jira                      |
-| Healthcare IT / EMR      | Epic EHR support · Technical troubleshooting         |
+| Healthcare IT / EMR      | Epic EHR technical troubleshooting & support        |
 | Other                    | Scientific writing · Public speaking · Team collaboration |
 
 ---
@@ -45,24 +50,23 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
   <tr>
     <td><strong>Driver Behavior Detection System</strong></td>
     <td>
-      Developed a CNN + BiLSTM pipeline (**99.1% accuracy**) to detect driver distraction and drowsiness in real time using **OpenCV**.  
+      Developed a <strong>CNN + BiLSTM</strong> pipeline (**99.1% accuracy**) to detect driver distraction and drowsiness in real time using <strong>OpenCV</strong>.  
       <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank">Journal of Big Data (2024)</a>
     </td>
   </tr>
   <tr>
     <td><strong>AI Stock Sentiment Analysis</strong></td>
     <td>
-      Built a **real-time Twitter sentiment pipeline** (RNN/LSTM) achieving **85% bullish-signal precision** with live push alerts.
+      Built a <strong>real-time Twitter sentiment pipeline</strong> (<strong>RNN/LSTM</strong>) achieving **85% bullish-signal precision** with live push alerts.
     </td>
   </tr>
   <tr>
     <td><strong>Healthcare IT Service Desk</strong></td>
     <td>
-      Resolved 100+ weekly Epic/IT tickets and authored 30+ KB docs in Jira, **reducing resolution time by 30%**.
+      Resolved **100+ weekly Epic/IT tickets**, authored **30+ KB docs in Jira**, and **reduced average resolution time by 30%**, directly improving clinical efficiency.
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -77,24 +81,22 @@ My work integrates **Epic EHR support**, **cloud computing**, and **machine lear
 - Microsoft **Azure Fundamentals (AZ-900)** (2025)  
 - Graduate Certificate **Big Data Analytics** (2024)  
 - IBM **Machine Learning Specialist – Associate** (2022)  
-- Microsoft **Azure Data Scientist (DP-100)** *(in progress)*  
-- Google **Professional Machine Learning Engineer (MLE)** *(planned)*
-
----
-
-## 🏆 Honors
-
-- 🥉 *3-Minute Thesis* — 2nd Runner-Up, FAU (2024)  
-- 🎓 **UPE Honor Society** — FIU
+- Microsoft **Azure Data Scientist (DP-100)** — *Expected August 2025*  
+- Google **Professional Machine Learning Engineer (MLE)** — *Planned 2025*
 
 ---
 
 ## ✍️ Latest Posts
 
 <ul>
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:5 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> <small>– {{ post.date | date: "%B %d, %Y" }}</small></li>
   {% endfor %}
 </ul>
 
+[→ View All Posts](/blog)
+
 ---
+
+*Site built with Jekyll & hosted on GitHub Pages.*  
+© {{ "now" | date: "%Y" }} Ming Chu
