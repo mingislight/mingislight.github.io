@@ -26,7 +26,7 @@ I am building expertise in **clinical data, cloud solutions, and AI-driven analy
   </tr>
 </table>
 
-** 🏆 Honors**  
+**Honors**  
 - 🥉 *3-Minute Thesis* — 2nd Runner-Up, FAU (2024)  
 - 🎓 **UPE Honor Society** — FIU
 
