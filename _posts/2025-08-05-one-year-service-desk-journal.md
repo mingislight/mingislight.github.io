@@ -72,7 +72,8 @@ It may seem quiet and behind the scenes, but it plays a **critical role in patie
 The Service Desk is the **frontline of Healthcare IT**, but we are never alone.  
 At Bozeman Health, we work hand-in-hand with other IT and operational teams to keep the hospital running smoothly:
 
-- **Desktop Support Team** – Resolving on-site device, workstation, and printer issues.  
+- **Desktop Support Team** – Resolving on-site device, workstation, and printer issues.
+- **Security Team** – Monitoring access logs, enforcing policies, and responding to suspicious activity to protect patient and staff data.
 - **Epic Team** – Handling EMR access, workflows, and escalated clinical system issues.  
 - **Third-Party Applications Team** – Coordinating fixes for specialized healthcare apps.  
 - **PACS Team** – Supporting imaging systems that providers rely on for diagnoses.  
