@@ -84,6 +84,24 @@ We respect the expertise of each team and work together to **solve issues quickl
 
 ---
 
+## Teaching and Empowering Users
+
+One of the most rewarding parts of my role is **teaching users how to use their tools confidently**.  
+Healthcare moves fast, and empowering staff with the right knowledge makes a lasting difference.
+
+I regularly help users with:
+
+- **Windows basics** — File management, printer troubleshooting, network settings, and system updates.  
+- **Epic workflows** — Navigating Hyperspace, resetting passwords, logging in remotely, and understanding charting best practices.  
+- **Microsoft applications** — Training on Outlook, Teams, Excel, Word, and OneDrive for efficient communication and collaboration.  
+- **Cybersecurity awareness** — Recognizing phishing attempts, managing passwords securely, and using 2FA.
+
+> Every moment of patient care counts — so I teach with clarity, kindness, and the goal of reducing fear around technology.
+
+My goal is always to leave the user not just with a fixed issue, but with **more confidence than before**.
+
+---
+
 ## Lessons From Year One
 
 - **The Service Desk is the heartbeat of IT.**  
