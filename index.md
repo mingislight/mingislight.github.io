@@ -84,6 +84,7 @@ I am building expertise in **clinical data, cloud solutions, and AI-driven analy
 - IBM **Machine Learning Specialist – Associate** (2022)  
 - Microsoft **Azure Data Scientist (DP-100)** — *Expected August 2025*  
 - Google **Professional Machine Learning Engineer (MLE)** — *Planned 2025*
+- Scrum.org **Professional Scrum Master™ I (PSM I)** (2020)
 
 ---
 
