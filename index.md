@@ -24,6 +24,10 @@ I am building expertise in **clinical data, cloud solutions, and AI-driven analy
     <td><strong>B.A. Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
     <td style="text-align:right;">UPE Honor Society</td>
   </tr>
+  <tr>
+    <td><strong>B.S. Applied Mathematics</strong> — <em>Virginia Military Institute (VMI), 2012–2015</em></td>
+    <td style="text-align:right;">GPA 3.5/4.0</td>
+  </tr>
 </table>
 
 **Honors**  
