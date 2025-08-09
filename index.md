@@ -96,10 +96,6 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
     <td><strong>B.A. Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
     <td style="text-align:right;">UPE Honor Society</td>
   </tr>
-  <tr>
-    <td><strong>Applied Mathematics Coursework</strong> — <em>Virginia Military Institute, 2012–2015</em></td>
-    <td style="text-align:right;">GPA 3.5/4.0</td>
-  </tr>
 </table>
 
 **Notable VMI Experience**  
