@@ -28,7 +28,6 @@ permalink: /contact/
       <textarea name="message" rows="6" required></textarea>
     </label>
 
-    <!-- Optional: route replies, redirect after submit, and basic spam trap -->
     <input type="hidden" name="_subject" value="New message from mingislight.com" />
     <input type="hidden" name="_redirect" value="https://mingislight.com/thanks/" />
     <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
