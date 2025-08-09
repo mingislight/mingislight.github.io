@@ -9,7 +9,7 @@ canonical_url: "https://mingislight.github.io/"
 ## 🖋 Latest Articles on Healthcare IT, AI, and Professional Growth
 
 <div class="latest-articles">
-  {% for post in site.posts limit:4 %}
+  {% for post in site.posts limit:5 %}
     <div class="article-item">
       <a href="{{ post.url | relative_url }}" class="article-title" title="{{ post.title }}">{{ post.title }}</a>
       <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 110 }}</p>
