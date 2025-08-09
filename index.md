@@ -1,19 +1,91 @@
 ---
 layout: default
-title: "Ming Chu — Healthcare IT & Machine Learning"
-description: "Healthcare IT & machine-learning professional blending frontline support with data-driven innovation to improve patient care."
+title: "Ming Chu | Healthcare IT and Machine Learning"
+description: "Healthcare IT and machine learning professional focused on Epic support, cloud, and analytics to improve patient care."
 permalink: /
+canonical_url: "https://mingislight.github.io/"
+---
+
+## 🖋 Latest Articles on Healthcare IT, AI, and Professional Growth
+
+<div class="latest-articles">
+  {% for post in site.posts limit:4 %}
+    <div class="article-item">
+      <a href="{{ post.url | relative_url }}" class="article-title" title="{{ post.title }}">{{ post.title }}</a>
+      <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 110 }}</p>
+      <small class="article-date">{{ post.date | date: "%B %d, %Y" }}</small>
+    </div>
+  {% endfor %}
+</div>
+
+<p><a href="/blog" class="view-all">→ View All Posts</a></p>
+
 ---
 
 ## 🧠 Professional Summary
 
-I bridge **front-line healthcare IT** with **predictive analytics**, turning raw data into actionable insight that reduces downtime and elevates patient-care quality.  
-My work integrates **Epic EHR support**, **cloud computing**, and **machine learning** to improve healthcare operations and patient outcomes.  
-I am building expertise in **clinical data, cloud solutions, and AI-driven analytics** to enhance patient care and operational efficiency.
+I connect front-line healthcare IT with applied analytics to reduce downtime and improve patient care.  
+My focus is Epic EHR support, cloud solutions, and machine learning that deliver reliable, measurable results.  
+I am growing deep skill in clinical data models, Azure ML, and AI-driven decision support for real-world operations.
 
 ---
 
-## 🎓 Education & Honors
+## 🛠️ Core Skills
+
+| **Category**        | **Stack / Tools** |
+|---------------------|-------------------|
+| Languages           | Python · SQL · JavaScript |
+| ML and Data         | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV · Power BI |
+| Cloud and DevOps    | Azure ML · Git · Jupyter · Jira |
+| Healthcare IT / EMR | Epic EHR troubleshooting and support |
+| Other               | Scientific writing · Public speaking · Team collaboration |
+
+---
+
+## 💼 Selected Projects
+
+<table style="width:100%">
+  <tr>
+    <td><strong>Driver Behavior Detection System</strong></td>
+    <td>
+      Built a CNN + BiLSTM pipeline (99.1% accuracy) to detect distraction and drowsiness with OpenCV.  
+      <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank" rel="noopener">Journal of Big Data (2024)</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI Stock Sentiment Analysis</strong></td>
+    <td>
+      Real-time Twitter sentiment pipeline (RNN/LSTM) with live push alerts and 85% bullish precision.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Healthcare IT Service Desk</strong></td>
+    <td>
+      Resolved 100+ weekly Epic and IT tickets, authored 30+ KB docs, and cut average resolution time by 30%.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Publications
+
+- “Comprehensive Study of Driver Behavior Monitoring Systems” — <em>Journal of Big Data</em>, 2024 [<a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank" rel="noopener">DOI</a>]
+
+---
+
+## 🧾 Certifications
+
+- Microsoft Azure Fundamentals (AZ-900) (2025)  
+- Graduate Certificate Big Data Analytics (2024)  
+- IBM Machine Learning Specialist – Associate (2022)  
+- Microsoft Azure Data Scientist (DP-100) — Expected August 2025  
+- Google Professional Machine Learning Engineer (MLE) — Planned 2025  
+- Scrum.org Professional Scrum Master I (PSM I) (2020)
+
+---
+
+## 🎓 Education and Honors
 
 <table style="width:100%">
   <tr>
@@ -25,84 +97,13 @@ I am building expertise in **clinical data, cloud solutions, and AI-driven analy
     <td style="text-align:right;">UPE Honor Society</td>
   </tr>
   <tr>
-    <td><strong>B.S. Applied Mathematics</strong> — <em>Virginia Military Institute (VMI), 2012–2015</em></td>
+    <td><strong>B.S. Applied Mathematics</strong> — <em>Virginia Military Institute, 2012–2015</em></td>
     <td style="text-align:right;">GPA 3.5/4.0</td>
   </tr>
 </table>
 
 **Honors**  
-- 🥉 *3-Minute Thesis* — 2nd Runner-Up, FAU (2024)  
-- 🎓 **UPE Honor Society** — FIU
+- 3-Minute Thesis — 2nd Runner-Up, FAU (2024)  
+- UPE Honor Society — FIU
 
 ---
-
-## 🛠️ Core Skills
-
-| **Category**             | **Stack / Tools**                                   |
-|--------------------------|-----------------------------------------------------|
-| Languages                | Python · SQL · JavaScript                            |
-| ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV · Power BI |
-| Cloud / DevOps           | Azure ML · Git · Jupyter · Jira                      |
-| Healthcare IT / EMR      | Epic EHR technical troubleshooting & support        |
-| Other                    | Scientific writing · Public speaking · Team collaboration |
-
----
-
-## 💼 Selected Projects
-
-<table style="width:100%">
-  <tr>
-    <td><strong>Driver Behavior Detection System</strong></td>
-    <td>
-      Developed a <strong>CNN + BiLSTM</strong> pipeline (99.1% accuracy) to detect driver distraction and drowsiness in real time using <strong>OpenCV</strong>.  
-      <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank">Journal of Big Data (2024)</a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI Stock Sentiment Analysis</strong></td>
-    <td>
-      Built a <strong>real-time Twitter sentiment pipeline (RNN/LSTM)</strong> achieving 85% bullish-signal precision with live push alerts.
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Healthcare IT Service Desk</strong></td>
-    <td>
-      Resolved 100+ weekly Epic/IT tickets, authored 30+ KB docs in Jira, and reduced average resolution time by 30%, directly improving clinical efficiency.
-    </td>
-  </tr>
-</table>
-
-
----
-
-## 📚 Publications
-
-- **“Comprehensive Study of Driver Behavior Monitoring Systems”** — *Journal of Big Data, 2024* [[DOI]](https://doi.org/10.1186/s40537-024-00890-0)
-
----
-
-## 🧾 Certifications
-
-- Microsoft **Azure Fundamentals (AZ-900)** (2025)  
-- Graduate Certificate **Big Data Analytics** (2024)  
-- IBM **Machine Learning Specialist – Associate** (2022)  
-- Microsoft **Azure Data Scientist (DP-100)** — *Expected August 2025*  
-- Google **Professional Machine Learning Engineer (MLE)** — *Planned 2025*
-- Scrum.org **Professional Scrum Master™ I (PSM I)** (2020)
-
----
-
-## ✍️ Latest Posts
-
-<ul>
-  {% for post in site.posts limit:5 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> <small>– {{ post.date | date: "%B %d, %Y" }}</small></li>
-  {% endfor %}
-</ul>
-
-[→ View All Posts](/blog)
-
----
-
-*Site built with Jekyll & hosted on GitHub Pages.*  
-© {{ "now" | date: "%Y" }} Ming Chu
