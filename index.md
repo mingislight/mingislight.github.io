@@ -97,13 +97,17 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
     <td style="text-align:right;">UPE Honor Society</td>
   </tr>
   <tr>
-    <td><strong>B.S. Applied Mathematics</strong> — <em>Virginia Military Institute, 2012–2015</em></td>
+    <td><strong>Applied Mathematics Coursework</strong> — <em>Virginia Military Institute, 2012–2015</em></td>
     <td style="text-align:right;">GPA 3.5/4.0</td>
   </tr>
 </table>
 
+**Notable VMI Experience**  
+- Class of 2016 – Charlie Company  
+- Cadet Leadership Training – Army ROTC  
+- Completed Calculus I–III, Differential Equations, Linear Algebra, and Probability & Statistics  
+- Developed leadership, discipline, resilience, and teamwork in a rigorous military academic environment  
+
 **Honors**  
 - 3-Minute Thesis — 2nd Runner-Up, FAU (2024)  
 - UPE Honor Society — FIU
-
----
