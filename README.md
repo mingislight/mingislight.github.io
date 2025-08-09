@@ -40,7 +40,6 @@ See all posts on the [**Blog**](./blog.md).
 
 - **M.S. Computer Science (Big Data Analysis)** – Florida Atlantic University, 2024 · GPA 4.0/4.0  
 - **B.A. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society  
-- **Applied Mathematics Coursework** – Virginia Military Institute, 2012–2015 · GPA 3.5/4.0  
 
 ---
 
