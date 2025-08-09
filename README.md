@@ -56,7 +56,6 @@ See all posts on the [**Blog**](./blog.md).
 ## 📫 Connect
 
 - 📍 Bozeman, Montana  
-- 📧 [mingcomputerscience@gmail.com](mailto:mingcomputerscience@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mingislight)  
 
 ---
