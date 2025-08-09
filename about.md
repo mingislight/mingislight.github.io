@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "About"
+description: "About Ming Chu — Healthcare IT and machine learning professional."
 permalink: /about/
 ---
 
