@@ -1,77 +1,66 @@
-# Ming Chu  
-**Healthcare IT Specialist | Machine Learning Researcher**
+# Ming Chu — Healthcare IT & Machine Learning
 
-📍 Bozeman, Montana  
-📧 [mingcomputerscience@gmail.com](mailto:mingcomputerscience@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ming-ai)
+Welcome to my professional blog and portfolio.  
+I work at the intersection of **front-line healthcare IT** and **predictive analytics**, turning raw data into insights that reduce downtime and improve patient care.  
+This site documents my projects, research, and lessons learned.
 
 ---
 
 ## 🧠 Professional Summary
 
-Experienced Healthcare IT and Data Analyst professional with a strong foundation in machine learning, big data analytics, and clinical systems optimization. Skilled in transforming data into actionable insights to support informed decision-making and improve healthcare outcomes. Passionate about leveraging predictive modeling, cloud platforms, and data science to drive innovation in patient care and operations.
+- **Healthcare IT Specialist** with experience supporting Epic EHR, cloud services, and technical troubleshooting.  
+- **Machine Learning Researcher** with first-author publications in driver behavior monitoring systems.  
+- Committed to building technology that protects and serves people.
+
+---
+
+## 📚 Featured Blog Posts
+
+- [**One-Year Service Desk Journal: Lessons from the Frontline of Healthcare IT**](./_posts/2025-08-05-one-year-service-desk-journal.md) – Reflection on my first year serving clinicians and patients through IT support.
+- [**Why Cloud Computing Matters: My First Understanding After AZ-900**](./_posts/2025-04-28-why-cloud-computing-matters-az-900.md) – How cloud technology strengthens healthcare operations.
+- [**Improving Driver Safety with Computer Vision and Deep Learning**](./_posts/2024-02-14-driver-behavior-computer-vision.md) – Research on AI systems detecting distracted and drowsy driving.
+
+See all posts on the [**Blog**](./blog.md).
+
+---
+
+## 🛠 Core Skills
+
+| **Category**             | **Stack / Tools**                                   |
+|--------------------------|-----------------------------------------------------|
+| Languages                | Python · SQL · JavaScript                           |
+| ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
+| Cloud / DevOps           | Azure ML · Git · Jupyter · Jira                      |
+| Healthcare IT / EMR      | Epic EHR support · Technical troubleshooting         |
+| Other                    | Scientific writing · Public speaking · Team collaboration |
 
 ---
 
 ## 🎓 Education
 
-- **M.S. in Computer Science (Big Data Analysis)**  
-  Florida Atlantic University — *GPA: 4.0 / 4.0, 2024*
-
-- **B.A. in Computer Science, Minor in Applied Mathematics**  
-  Florida International University — *UPE Honor Society, 2020*
-
----
-
-## 🛠️ Skills
-
-**Languages & Tools:** Python, SQL, R, JavaScript  
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, OpenCV  
-**Visualization:** Matplotlib, Seaborn  
-**Cloud & DevOps:** Azure ML, Git, Jupyter, Jira  
-**Healthcare IT:** EHR Systems (Epic), Technical Troubleshooting  
-**Other:** Scientific Writing, Public Speaking, Team Collaboration
-
----
-
-## 💼 Projects & Experience
-
-### [Driver Behavior Detection System](projects/driver_behavior_detection.md)
-- Built and optimized a CNN + BiLSTM model achieving 99.08% accuracy in detecting driver distraction.
-- Led model deployment workflows using Python and OpenCV.
-- [Published in the Journal of Big Data (Springer Open)](https://doi.org/10.1186/s40537-024-00890-0)
-
-### [AI Stock Sentiment Analysis](projects/ai_stock_sentiment_analysis.md)
-- Developed real-time sentiment analysis system using RNN and LSTM to evaluate Twitter financial signals.
-- Enabled actionable market insights with integrated mobile notifications.
-
-### [Healthcare IT Service Desk](projects/healthcare_it_service_desk.md)
-- Delivered frontline IT support within a hospital setting, resolving hardware/software/network issues.
-- Created user-friendly troubleshooting documentation to streamline operations and ensure compliance.
-
----
-
-## 📚 Publications
-
-- [**Comprehensive Study of Driver Behavior Monitoring Systems**](https://doi.org/10.1186/s40537-024-00890-0)  
-  *Journal of Big Data, Springer Open — 2024*
+- **M.S. Computer Science (Big Data Analysis)** – Florida Atlantic University, 2024 · GPA 4.0/4.0  
+- **B.A. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society
 
 ---
 
 ## 🧾 Certifications
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — *Earned in 2025*  
-- **Graduate Certificate in Big Data Analytics** — *Awarded in 2024*  
-- **IBM Machine Learning Specialist – Associate** — *Issued in 2022*  
-- **DP-100: Designing and Implementing a Data Science Solution on Azure** — *In Progress*  
-- **Google Professional Machine Learning Engineer** — *Planned*
+- Microsoft **Azure Fundamentals (AZ-900)** – 2025  
+- Graduate Certificate **Big Data Analytics** – 2024  
+- IBM **Machine Learning Specialist – Associate** – 2022  
+- Microsoft **Azure Data Scientist (DP-100)** – *in progress*  
+- Google **Professional Machine Learning Engineer (MLE)** – *planned*
 
 ---
 
-## 🏆 Honors & Awards
+## 📫 Connect
 
-- 🥉 **Second Runner-Up, 3 Minute Thesis Competition**  
-  Florida Atlantic University, 2024  
+- 📍 Bozeman, Montana  
+- 📧 [mingcomputerscience@gmail.com](mailto:mingcomputerscience@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mingislight)  
+- 💻 [GitHub](https://github.com/mingislight)
 
-- 🎓 **UPE International Honor Society**  
-  Florida International University
+---
+
+*Site built with Jekyll & hosted on GitHub Pages.*  
+© 2025 Ming Chu
