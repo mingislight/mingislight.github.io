@@ -16,8 +16,8 @@ This site documents my projects, research, and lessons learned.
 
 ## 📚 Featured Blog Posts
 
-- [**One-Year Service Desk Journal: Lessons from the Frontline of Healthcare IT**](./_posts/2025-08-05-one-year-service-desk-journal.md) – Reflection on my first year serving clinicians and patients through IT support.
-- [**Why Cloud Computing Matters: My First Understanding After AZ-900**](./_posts/2025-04-28-why-cloud-computing-matters-az-900.md) – How cloud technology strengthens healthcare operations.
+- [**One-Year Service Desk Journal: Lessons from the Frontline of Healthcare IT**](./_posts/2025-08-05-one-year-service-desk-journal.md) – Reflection on my first year serving clinicians and patients through IT support.  
+- [**Why Cloud Computing Matters: My First Understanding After AZ-900**](./_posts/2025-04-28-why-cloud-computing-matters-az-900.md) – How cloud technology strengthens healthcare operations.  
 - [**Improving Driver Safety with Computer Vision and Deep Learning**](./_posts/2024-02-14-driver-behavior-computer-vision.md) – Research on AI systems detecting distracted and drowsy driving.
 
 See all posts on the [**Blog**](./blog.md).
@@ -26,20 +26,21 @@ See all posts on the [**Blog**](./blog.md).
 
 ## 🛠 Core Skills
 
-| **Category**             | **Stack / Tools**                                   |
-|--------------------------|-----------------------------------------------------|
-| Languages                | Python · SQL · JavaScript                           |
-| ML / Data                | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
-| Cloud / DevOps           | Azure ML · Git · Jupyter · Jira                      |
-| Healthcare IT / EMR      | Epic EHR support · Technical troubleshooting         |
-| Other                    | Scientific writing · Public speaking · Team collaboration |
+| **Category**        | **Stack / Tools** |
+|---------------------|-------------------|
+| Languages           | Python · SQL · JavaScript |
+| ML / Data           | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
+| Cloud / DevOps      | Azure ML · Git · Jupyter · Jira |
+| Healthcare IT / EMR | Epic EHR support · Technical troubleshooting |
+| Other               | Scientific writing · Public speaking · Team collaboration |
 
 ---
 
 ## 🎓 Education
 
 - **M.S. Computer Science (Big Data Analysis)** – Florida Atlantic University, 2024 · GPA 4.0/4.0  
-- **B.A. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society
+- **B.A. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society  
+- **Applied Mathematics Coursework** – Virginia Military Institute, 2012–2015 · GPA 3.5/4.0  
 
 ---
 
@@ -49,7 +50,7 @@ See all posts on the [**Blog**](./blog.md).
 - Graduate Certificate **Big Data Analytics** – 2024  
 - IBM **Machine Learning Specialist – Associate** – 2022  
 - Microsoft **Azure Data Scientist (DP-100)** – *in progress*  
-- Google **Professional Machine Learning Engineer (MLE)** – *planned*
+- Google **Professional Machine Learning Engineer (MLE)** – *planned*  
 
 ---
 
@@ -61,6 +62,3 @@ See all posts on the [**Blog**](./blog.md).
 - 💻 [GitHub](https://github.com/mingislight)
 
 ---
-
-*Site built with Jekyll & hosted on GitHub Pages.*  
-© 2025 Ming Chu
