@@ -3,6 +3,9 @@ description: "Professional blending frontline support with data-driven innovatio
 logo: /assets/img/headshot.png
 url: "https://mingislight.com"
 
+# Social sharing image (default OG/Twitter card)
+social_image: /assets/img/social-card.png
+
 # Contact & Links
 location: "Bozeman, Montana"
 linkedin_url: "https://www.linkedin.com/in/mingislight"
