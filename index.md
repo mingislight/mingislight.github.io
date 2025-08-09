@@ -3,7 +3,7 @@ layout: default
 title: "Ming Chu – Healthcare IT and Machine Learning"
 description: "Epic support, cloud, and analytics professional using healthcare IT and machine learning to improve patient care."
 permalink: /
-canonical_url: "https://mingislight.github.io/"
+canonical_url: "https://mingislight.com"
 ---
 
 ## 🖋 Latest Articles on Healthcare IT, AI, and Professional Growth
@@ -101,3 +101,7 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
 **Honors**  
 - 3-Minute Thesis — 2nd Runner-Up, FAU (2024)  
 - UPE Honor Society — FIU
+
+---
+
+<p><a href="/feed.xml">Subscribe via RSS</a></p>
