@@ -98,12 +98,6 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
   </tr>
 </table>
 
-**Notable VMI Experience**  
-- Class of 2016 – Charlie Company  
-- Cadet Leadership Training – Army ROTC  
-- Completed Calculus I–III, Differential Equations, Linear Algebra, and Probability & Statistics  
-- Developed leadership, discipline, resilience, and teamwork in a rigorous military academic environment  
-
 **Honors**  
 - 3-Minute Thesis — 2nd Runner-Up, FAU (2024)  
 - UPE Honor Society — FIU
