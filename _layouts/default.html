@@ -2,19 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="/favicon.png">
 
-  <!-- Theme Default CSS -->
+  <!-- Theme CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
   <!-- Your Custom CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-  {{ site.head }}
+  {% include head-custom.html %}
 </head>
 <body>
   <!-- Sidebar -->
@@ -42,17 +41,16 @@
       {% if site.email %}
         <p>✉️ <a href="mailto:{{ site.email }}">Email</a></p>
       {% endif %}
-      {% if site.github_username %}
-        <p>💻 <a href="https://github.com/{{ site.github_username }}">GitHub</a></p>
-      {% endif %}
       {% if site.linkedin_url %}
         <p>🔗 <a href="{{ site.linkedin_url }}">LinkedIn</a></p>
       {% endif %}
+      <!-- Intentionally no GitHub link -->
     </div>
   </div>
 
   <!-- Main Content -->
   <div class="wrap">
+    {% include nav.html %}
     {{ content }}
   </div>
 </body>
