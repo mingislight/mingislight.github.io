@@ -10,7 +10,7 @@
 
   <!-- Theme CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <!-- Your Custom CSS -->
+  <!-- Your Custom CSS (must load after theme) -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
   {% include head-custom.html %}
@@ -22,29 +22,17 @@
       <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-pic">
     {% endif %}
 
-    <!-- Name -->
     <h2 class="name">{{ site.title }}</h2>
+    <p class="role">{{ site.description }}</p>
 
-    <!-- Role (short title under name) -->
-    <p class="role">Healthcare IT & Machine Learning</p>
+    <div class="bio">
+      <p>{{ site.location }}</p>
+    </div>
 
-    <!-- Bio / Description -->
-    {% if site.description %}
-      <p class="bio">{{ site.description }}</p>
-    {% endif %}
-
-    <!-- Contact Info from _config.yml -->
     <div class="contact">
-      {% if site.location %}
-        <p>📍 {{ site.location }}</p>
-      {% endif %}
-      {% if site.email %}
-        <p>✉️ <a href="mailto:{{ site.email }}">Email</a></p>
-      {% endif %}
       {% if site.linkedin_url %}
         <p>🔗 <a href="{{ site.linkedin_url }}">LinkedIn</a></p>
       {% endif %}
-      <!-- Intentionally no GitHub link -->
     </div>
   </div>
 
