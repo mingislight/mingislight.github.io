@@ -1,45 +1,79 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title | default: site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+---
+layout: post
+title: "Always On: Why Cloud Matters in a Hospital"
+date: 2025-08-16
+author: Ming Chu
+tags: [Cloud Computing, Azure, Healthcare IT, Reliability, Business Continuity]
+image: /assets/img/always-on.png
+description: "Always-on cloud keeps MyChart, PACS, and provider tools running 24/7 so patients get faster care without delays."
+keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, uptime, reliability, disaster recovery, OneDrive"
+---
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="/favicon.png">
+## The goal of Cloud Services: Always On
 
-  <!-- Theme CSS -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <!-- Your Custom CSS (must load after theme) -->
-  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+Hospitals cannot go offline.  
+Every minute matters for patients and staff.  
+Cloud keeps core systems running around the clock.
 
-  {% include head-custom.html %}
-</head>
-<body>
-  <!-- Sidebar -->
-  <div class="sidebar">
-    {% if site.logo %}
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-pic">
-    {% endif %}
+<figure class="post-hero">
+  <img src="/assets/img/always-on.png">
+</figure>
 
-    <h2 class="name">{{ site.title }}</h2>
-    <p class="role">{{ site.description }}</p>
+## What “Always On” means
 
-    <div class="bio">
-      <p>{{ site.location }}</p>
-    </div>
+Cloud runs the same system in more than one safe place.  
+If one location has trouble, traffic shifts to the healthy one.  
+That keeps MyChart, PACS, and provider workstations available 24/7.
 
-    <div class="contact">
-      {% if site.linkedin_url %}
-        <p>🔗 <a href="{{ site.linkedin_url }}">LinkedIn</a></p>
-      {% endif %}
-    </div>
-  </div>
+## Everyday benefits
 
-  <!-- Main Content -->
-  <div class="wrap">
-    {% include nav.html %}
-    {{ content }}
-  </div>
-</body>
-</html>
+1. Patients use MyChart any time to check results and send messages.  
+2. Imaging opens quickly because PACS is always online.  
+3. Providers log in, chart, and order without sudden outages.  
+4. Files follow staff across devices with OneDrive for easy access.  
+5. Self service shortens waits for password resets and access requests.  
+6. All apps are in one place so staff can work efficiently.  
+7. Accounts stay safer when users update contacts and track sign-in activity.  
+
+## What this protects
+
+- MyChart and Epic tools used at the bedside.  
+- Imaging viewers and report delivery.  
+- Patient portals and scheduling.  
+- Secure telehealth and remote access.
+
+## What the cloud does not cover
+
+- Power in the building.  
+- Local wired and Wi-Fi problems.  
+- A single Internet circuit.
+
+That is why we pair cloud with a well run local data center.
+
+## How downtime is reduced
+
+- Services run in two or more locations.  
+- If one fails, the system switches automatically.  
+- Updates roll out in small steps so care does not stop.  
+- Extra capacity appears during traffic peaks.  
+- Backups run in the background with fast restore options.
+
+## A working hospital setup
+
+- App servers in both public cloud and local data centers.  
+- Databases with high availability and quick failover.  
+- Backups stored in a second region and tested often.  
+- Private connections to the cloud with at least two paths.  
+- Central monitoring and alerts that reach on-call staff.
+
+## Why it matters
+
+Less downtime means fewer delays.  
+Patients receive care faster.  
+That is the win.
+
+> “By love serve one another.”
+
+I study cloud service to serve better in healthcare IT.  
+If one person is helped and a patient is cared for faster, it is worth it.  
+Serve with Knowledge, for one another.
