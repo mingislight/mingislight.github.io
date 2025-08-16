@@ -12,7 +12,6 @@ keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, upti
 
 <figure class="post-hero">
   <img src="/assets/img/always-on.png" alt="Hospital lit at night. Systems stay online for patient care.">
-  <figcaption>Image: Always On</figcaption>
 </figure>
 
 
