@@ -4,42 +4,19 @@
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace }}">
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-
-  <!-- Icons -->
-  <link rel="icon" type="image/png" href="{{ '/favicon.png' | absolute_url }}">
-  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | absolute_url }}">
-
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/favicon.png">
   <!-- Theme CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <!-- Custom CSS -->
+  <!-- Your Custom CSS (must load after theme) -->
   <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-
-  {% if site.plugins contains 'jekyll-seo-tag' %}
-    {% seo %}
-  {% endif %}
-
   {% include head-custom.html %}
 </head>
 <body>
-  <a class="skip-link" href="#main-content">Skip to main content</a>
-
-  <!-- Fixed Header -->
-  <header class="site-header" role="banner" aria-label="Site header">
-    {% include nav.html %}
-  </header>
-
   <!-- Sidebar -->
-  <aside class="sidebar" aria-label="Site sidebar">
+  <div class="sidebar">
     {% if site.logo %}
-      <img
-        src="{{ site.logo | relative_url }}"
-        alt="{{ site.title | escape }}"
-        class="profile-pic"
-        loading="lazy"
-        width="160"
-        height="160">
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-pic">
     {% endif %}
     <h2 class="name">{{ site.title }}</h2>
     <p class="role">{{ site.description }}</p>
@@ -48,20 +25,14 @@
     </div>
     <div class="contact">
       {% if site.linkedin_url %}
-        <p>🔗 <a href="{{ site.linkedin_url }}" rel="noopener">LinkedIn</a></p>
+        <p>🔗 <a href="{{ site.linkedin_url }}">LinkedIn</a></p>
       {% endif %}
     </div>
-  </aside>
-
+  </div>
   <!-- Main Content -->
   <div class="wrap">
-    <main id="main-content" role="main">
-      {{ content }}
-    </main>
-
-    <footer class="site-footer" role="contentinfo">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-    </footer>
+    {% include nav.html %}
+    {{ content }}
   </div>
 </body>
 </html>
