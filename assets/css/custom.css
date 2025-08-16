@@ -69,7 +69,8 @@
 
 /* ===== Main Content Area ===== */
 .wrap {
-  margin-left: 260px !important;   /* sidebar width + spacing */
+  margin-left: 260px !important;  /* space for sidebar */
+  margin-right: auto;
   max-width: 960px !important;
   padding: 50px 40px;
 }
@@ -197,7 +198,7 @@
     margin-right: auto !important;
     max-width: 95% !important;
     padding: 20px;
-    text-align: center;
+    text-align: left; /* keep text readable */
   }
   .wrap img,
   .wrap iframe {
@@ -209,5 +210,12 @@
     margin-right: auto;
     padding-left: 0;
     padding-right: 0;
+  }
+}
+
+/* ===== Optional helper: limit page width on ultra wide screens ===== */
+@media screen and (min-width: 1440px) {
+  .wrap {
+    max-width: 1040px !important;
   }
 }
