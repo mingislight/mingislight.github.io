@@ -15,7 +15,7 @@ keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, upti
 </figure>
 
 
-## The goal: always on
+## The goal: always on 24/7
 
 Hospitals cannot go offline.  
 Every minute matters for patients and staff.  
