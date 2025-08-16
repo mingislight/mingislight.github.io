@@ -6,7 +6,7 @@ permalink: /
 canonical_url: "https://mingislight.com"
 ---
 
-## 🖋 Latest Articles on Healthcare IT, AI, and Professional Growth
+## 🖋 Latest Insights in Healthcare IT and AI
 
 <div class="latest-articles">
   {% for post in site.posts limit:5 %}
