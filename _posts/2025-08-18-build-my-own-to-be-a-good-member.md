@@ -41,4 +41,4 @@ Lift others up first and not ourselves.
 Even a small trophy for gutter balls becomes a reminder. Joy and humility go hand in hand.  
 
 Grateful to be part of a team that makes space for both fun and purpose, where even gutter balls can teach us about grace.  
-True success is not in leading our own team, but in doing every little thing faithfully where we are placed.
+True success is not about how important we are, but about how faithful we are with the small things where we are placed.
