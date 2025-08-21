@@ -71,5 +71,5 @@ If you want the power and the life flowing, you must be connected to the Source.
     <li>Run <code>gpupdate /force</code> to refresh policies.</li>
     <li>Test login with a <strong>domain account</strong> (a normal user login).</li>
   </ol>
-  <p style="font-size:14px; color:#555;">These steps are for IT professionals. For most readers, the story above is the heart of the lesson.</p>
+  <p style="font-size:14px; color:#555;">These steps are only meant for IT professionals. The story above is the heart of the lesson.</p>
 </div>
