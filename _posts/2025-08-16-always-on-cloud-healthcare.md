@@ -9,17 +9,17 @@ description: "Always-on cloud keeps MyChart, PACS, and provider tools running 24
 keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, uptime, reliability, disaster recovery, OneDrive"
 ---
 
-
 <figure class="post-hero">
   <img src="/assets/img/always-on.png" alt="Hospital lit at night. Systems stay online for patient care.">
 </figure>
-
 
 ## The goal: always on 24/7
 
 Hospitals cannot go offline.  
 Every minute matters for patients and staff.  
-Cloud helps keep core systems running 24 hours a day, 7 days a week.
+
+Cloud computing is more than a tech buzzword. In an earlier post I explained [why cloud computing matters](https://mingislight.com/2025/04/28/why-cloud-computing-matters-az-900.html).  
+Here we look at what “always on” means inside a hospital, where every second counts.
 
 ## What “always on” looks like
 
