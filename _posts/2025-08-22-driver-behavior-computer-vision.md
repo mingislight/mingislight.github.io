@@ -92,7 +92,7 @@ This project grew my skills in:
 - Explaining complex ideas in plain language.  
 - Building technology that protects people.  
 
-The greatest lesson was this. Technology is worth building only when it serves people like a caring passenger. Always present, always watching, and never asleep.
+The greatest lesson was this. Technology is worth building only when it serves people like a caring passenger. Yet even the best system cannot watch over us perfectly. There is One who never sleeps and never looks away. He guards our steps, and in Him we find true safety.
 
 ---
 
