@@ -77,6 +77,8 @@ Many issues, such as account access, file recovery, and application errors, trac
 
 Understanding identity, service health, and backup strategies helps me serve better.  
 
+Each call is more than a technical issue. Behind it is a patient waiting, a nurse charting, or a family looking for answers. Serving well in IT means serving them.  
+
 > In both technology and life, what truly matters happens beneath the surface.  
 
 ---
@@ -85,6 +87,9 @@ Understanding identity, service health, and backup strategies helps me serve bet
 
 Passing AZ-900 was just the start.  
 It showed me how the cloud, used wisely, can strengthen any healthcare organization.  
+
+This foundation came alive when I saw how “always on” cloud supports hospitals in real time.  
+I wrote about what that looks like here: [Always On: Why Cloud Matters in a Hospital](/2025/08/16/always-on.html).  
 
 I am committed to growing deeper in cloud knowledge, building my computer science foundation, and applying machine learning skills daily.  
 
@@ -97,8 +102,15 @@ I am thankful to be growing at Bozeman Health.
 
 Step by step, we keep walking this walk.  
 
+Here is a lesson from the nature, the creation:  
+
+*Go to the ant, you sluggard. Consider her ways, and be wise.  
+Which having no guide, overseer, or ruler,  
+provideth her meat in the summer,  
+and gathereth her food in the harvest.*  
+
+The cloud is a picture of that same wisdom. Prepare in advance, store what is needed, and be ready when the moment comes.  
+
+The same way training the body requires steady practice, training the mind in cloud and IT takes daily consistency. Both are about preparation to serve when it matters most.  
+
 If you are exploring cloud in healthcare or IT, I would be glad to share and learn together.  
-
----
-
-[← Back to Blog](/blog)
