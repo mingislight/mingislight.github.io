@@ -10,7 +10,7 @@ keywords: "Azure outage, cloud, healthcare IT, Epic downtime, Microsoft outage, 
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/img/azure-outage.png" alt="Azure Outage" style="max-width:100%; height:auto; border-radius: 8px;">
+  <img src="/assets/img/azure-outage.png" alt="Azure Outage" style="max-width:50%; height:auto; border-radius: 8px;">
 </div>
 
 
