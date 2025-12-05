@@ -78,9 +78,7 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
 
 - Microsoft Azure Fundamentals (AZ-900) — 2025  
 - Graduate Certificate Big Data Analytics — 2024  
-- IBM Machine Learning Specialist – Associate — 2022  
-- Microsoft Azure Data Scientist (DP-100) — Expected August 2025  
-- Google Professional Machine Learning Engineer (MLE) — Planned 2025  
+- IBM Machine Learning Specialist – Associate — 2022   
 - Scrum.org Professional Scrum Master I (PSM I) — 2020
 
 ---
