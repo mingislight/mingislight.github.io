@@ -9,6 +9,11 @@ description: "A reflection on the October 29 Azure outage, why hybrid architectu
 keywords: "Azure outage, cloud, healthcare IT, Epic downtime, Microsoft outage, hybrid datacenter, foundation"
 ---
 
+<div style="text-align: center;">
+  <img src="/assets/img/azure-outage.png" alt="Azure Outage" style="max-width:100%; height:auto; border-radius: 8px;">
+</div>
+
+
 On October 29, 2025, Azure Cloud Service went down.  
 Not a small slowdown.  
 A full outage across multiple regions.
