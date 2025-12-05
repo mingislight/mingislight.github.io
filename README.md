@@ -48,8 +48,6 @@ See all posts on the [**Blog**](./blog.md).
 - Microsoft **Azure Fundamentals (AZ-900)** – 2025  
 - Graduate Certificate **Big Data Analytics** – 2024  
 - IBM **Machine Learning Specialist – Associate** – 2022  
-- Microsoft **Azure Data Scientist (DP-100)** – *in progress*  
-- Google **Professional Machine Learning Engineer (MLE)** – *planned*  
 
 ---
 
