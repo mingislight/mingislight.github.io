@@ -7,6 +7,6 @@ permalink: /about/
 
 ## About
 
-I serve in Healthcare IT and apply analytics to support patient care.
-My goal is to build reliable tools that help people do good work.
-This site is my record of learning, service, and growth.
+I work in Healthcare IT and use analytics to support patient care. 
+I’m growing as a software builder, applying machine learning to solve practical problems and improve reliability. 
+This site is my record of what I’m learning and building, one project at a time.
