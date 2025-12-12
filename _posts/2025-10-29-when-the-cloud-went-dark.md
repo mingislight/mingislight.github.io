@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When the Cloud Went Dark: A Lesson from the Azure Outage"
+title: "From an Azure Outage to a Lesson in Cloud Resilience"
 date: 2025-10-29
 author: Ming Chu
 tags: [Azure, Cloud, Healthcare IT, Reflection, Faith]
