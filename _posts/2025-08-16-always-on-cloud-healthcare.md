@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Always On: Why Cloud Matters in a Hospital"
+title: "Why Cloud Services Keep Healthcare Systems Always On"
 date: 2025-08-16
 author: Ming Chu
 tags: [Cloud Computing, Azure, Healthcare IT, Reliability, Business Continuity]
