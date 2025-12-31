@@ -22,6 +22,19 @@ canonical_url: "https://mingislight.com"
 
 ---
 
+## 🧰 Healthcare IT Triage Toolkit
+
+[![Healthcare IT Triage Toolkit cover](/assets/img/healthcare-it-triage-toolkit-cover.png)](https://mingcode.gumroad.com/l/genesis)
+
+A compliance-first, no-PHI playbook for fast healthcare IT ticket triage and routing.  
+Built from real service desk experience in regulated healthcare environments.
+
+[View the toolkit →](https://mingcode.gumroad.com/l/genesis)
+
+
+---
+
+
 ## 🧠 Professional Summary
 
 I connect front-line healthcare IT with applied analytics to reduce downtime and improve patient care.  
