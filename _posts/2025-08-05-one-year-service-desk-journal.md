@@ -141,4 +141,35 @@ I am grateful for this foundation at Bozeman Health IT and excited to continue l
 
 ---
 
+---
+
+## Practical Resource
+
+<a href="https://mingcode.gumroad.com/l/genesis">
+  <img
+    src="/assets/img/healthcare-it-triage-toolkit-cover.png"
+    alt="Healthcare IT Triage Toolkit cover"
+    style="width:80px; height:auto; float:left; margin:4px 16px 8px 0;"
+  />
+</a>
+
+If you work in Healthcare IT or on a Service Desk, I also created a **practical, compliance-first toolkit** based on real frontline experience.
+
+It focuses on:
+
+- Fast, calm ticket triage
+- Correct escalation and routing
+- Clear documentation without PHI
+- Supporting clinicians under pressure
+
+→ [View the Healthcare IT Triage Toolkit](https://mingcode.gumroad.com/l/genesis)
+
+<div style="clear:both;"></div>
+
+
+
+
+---
+
+
 [← Back to Blog](/blog)
