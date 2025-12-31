@@ -24,15 +24,13 @@ canonical_url: "https://mingislight.com"
 
 ## 🧰 Healthcare IT Triage Toolkit
 
-<p style="text-align:center;">
-  <a href="https://mingcode.gumroad.com/l/genesis">
-    <img
-      src="/assets/img/healthcare-it-triage-toolkit-cover.png"
-      alt="Healthcare IT Triage Toolkit cover"
-      style="width:120px; height:auto; display:block; margin:0 auto;"
-    />
-  </a>
-</p>
+<a href="https://mingcode.gumroad.com/l/genesis">
+  <img
+    src="/assets/img/healthcare-it-triage-toolkit-cover.png"
+    alt="Healthcare IT Triage Toolkit cover"
+    style="width:120px; height:auto; display:block; margin-bottom:12px;"
+  />
+</a>
 
 <p>
   A compliance-first, no-PHI playbook for fast healthcare IT ticket triage and routing.<br/>
