@@ -48,10 +48,6 @@ That small change of approach taught me something.
 A computer that is away from its source forgets who it is meant to be and cannot do anything about it.  
 
 But once it is plugged back in, it knows where it belongs.  
-*“You shall receive power when the Holy Spirit has come upon you.”*  
-
-The Holy Spirit is the Plug to the Source above.  
-If you want the power and the life flowing, you must be connected to the Source.  
 
 ---
 
