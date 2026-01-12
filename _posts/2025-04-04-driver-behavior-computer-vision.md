@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Driver Safety with Computer Vision and Deep Learning: How AI Detects Distraction and Fatigue"
-date: 2024-02-22
+date: 2025-04-04
 author: Ming Chu
 tags: [Computer Vision, Machine Learning, Autonomous Vehicles, Research]
 image: /assets/img/Driving.png
