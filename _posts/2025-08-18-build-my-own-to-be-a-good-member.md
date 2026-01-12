@@ -3,17 +3,17 @@ layout: post
 title: "From Building My Own Team to Becoming a Good Team Member"
 date: 2025-08-18
 author: Ming Chu
-tags: [Teamwork, Healthcare IT, Reflection, Faith, Bozeman Health]
+tags: [Teamwork, Healthcare IT, Reflection, Faith, Healthcare IT]
 image: /assets/img/bowling_event.png
 description: "A bowling night reminder that true teamwork is found in humility, joy, and serving others with the right heart."
-keywords: "teamwork, healthcare IT, Bozeman Health, Epic support, team culture, faith"
+keywords: "teamwork, healthcare IT, Epic support, team culture, faith"
 ---
 
 <div style="text-align: center;">
   <img src="/assets/img/bowling_event.png" alt="Bowling Event" style="max-width:100%; height:auto; border-radius: 8px;">
 </div>
 
-On April 25, our Bozeman Health team held a bowling night.  
+On April 25, our Healthcare IT team held a bowling night.  
 I did not win for strikes or spares, I actually got the trophy for **Most Gutter Balls**.  
 It made everyone laugh, including me.  
 
