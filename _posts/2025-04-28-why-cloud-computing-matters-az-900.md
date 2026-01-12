@@ -35,9 +35,9 @@ In my AZ-900 studies, I learned five fundamentals:
 
 ---
 
-## How Cloud Services Strengthen Bozeman Health
+## How Cloud Services Strengthen Healthcare IT
 
-At Bozeman Health, cloud services support communication, storage, secure sign-ins, learning, and collaboration.  
+In the field of Healthcare IT, cloud services support communication, storage, secure sign-ins, learning, and collaboration.  
 We combine private systems with public cloud for a **hybrid** approach, balancing reliability and innovation.  
 
 ---
@@ -98,7 +98,7 @@ I am committed to growing deeper in cloud knowledge, building my computer scienc
 ## Final Thoughts
 
 Cloud computing strengthens the systems that support life, work, and care.  
-I am thankful to be growing at Bozeman Health.  
+I am thankful to be growing in the field of Healthcare IT.  
 
 Step by step, we keep walking this walk.  
 
