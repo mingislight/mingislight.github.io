@@ -141,8 +141,6 @@ I am grateful for this foundation at Healthcare IT and excited to continue learn
 
 ---
 
----
-
 ## Practical Resource
 
 <a href="https://mingcode.gumroad.com/l/genesis">
