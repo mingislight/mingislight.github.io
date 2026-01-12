@@ -3,7 +3,7 @@ layout: post
 title: "One-Year Service Desk Journal: Lessons from the Frontline of Healthcare IT"
 date: 2025-08-05
 author: Ming Chu
-tags: [Service Desk, Healthcare IT, Epic, Career Growth, Reflection, Bozeman Health]
+tags: [Service Desk, Healthcare IT, Epic, Career Growth, Reflection, Healthcare IT]
 image: /assets/img/service-desk.png
 description: "A one-year reflection on my journey in the Healthcare IT Service Desk — lessons on humility, growth, and supporting patient care from behind the scenes."
 keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflection"
@@ -13,7 +13,7 @@ keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflect
 
 ## Service Desk: The Triage of Healthcare IT
 
-After one year serving at the **Bozeman Health IT Service Desk**, I **appreciate being part of the triage team in Healthcare IT**:
+After one year serving at **Healthcare IT Service Desk**, I **appreciate being part of the triage team in Healthcare IT**:
 
 > **The Service Desk is the first line of support that keeps patient care moving.**
 
@@ -70,7 +70,7 @@ It may seem quiet and behind the scenes, but it plays a **critical role in patie
 ## Cross-Team Collaboration
 
 The Service Desk is the **frontline of Healthcare IT**, but we are never alone.  
-At Bozeman Health, we work hand-in-hand with other IT and operational teams to keep the hospital running smoothly:
+At Healthcare IT, we work hand-in-hand with other IT and operational teams to keep the hospital running smoothly:
 
 - **Desktop Support Team** – Resolving on-site device, workstation, and printer issues.
 - **Security Team** – Monitoring access logs, enforcing policies, and responding to suspicious activity to protect patient and staff data.
@@ -132,12 +132,12 @@ My goal is always to leave the user not just with a fixed issue, but with **more
 The Service Desk is a **humble yet powerful role**.  
 Every resolved ticket makes it possible for someone else to **focus on caring for patients**.  
 
-This first year at **Bozeman Health IT** taught me three quiet strengths:  
+This first year at **Healthcare IT** taught me three quiet strengths:  
 - **Stay humble**  
 - **Serve first**  
 - **Keep growing each day in service and skill**
 
-I am grateful for this foundation at Bozeman Health IT and excited to continue learning and serving in Healthcare IT.
+I am grateful for this foundation at Healthcare IT and excited to continue learning and serving in Healthcare IT.
 
 ---
 
