@@ -67,7 +67,6 @@ It protects care when storms come.
 > “Everyone who hears these sayings of Mine, and does them, is like a wise man who built his house upon a rock.  
 > And the rain descended, the floods came, and the winds blew, and beat upon that house;  
 > and it did not fall, for it was founded upon a rock.”  
-> *Matthew 7:24–25*
 
 The wise man did not build on one surface.  
 He built on a foundation that could take storms and stand firmly.  
