@@ -4,12 +4,12 @@ title: "Driver Safety with Computer Vision and Deep Learning: How AI Detects Dis
 date: 2024-02-22
 author: Ming Chu
 tags: [Computer Vision, Machine Learning, Autonomous Vehicles, Research]
-image: /assets/img/driver-behavior-classification.png
+image: /assets/img/Driving.png
 description: "First-author research using CNN and BiLSTM deep learning models to detect distracted and drowsy driving in real time, improving road safety and supporting autonomous vehicle technology."
 keywords: "driver safety, driver distraction, computer vision, deep learning, CNN, LSTM, BiLSTM, autonomous vehicles, driver monitoring system, vision transformer"
 ---
 
-![Driver Behavior Classification Overview](/assets/img/driver-behavior-classification.png)
+![Driver Behavior Detection Overview](/assets/img/Driving.png)
 
 ## Why This Matters
 
