@@ -13,12 +13,12 @@ keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, upti
   <img src="/assets/img/always-on.png" alt="Hospital lit at night. Systems stay online for patient care.">
 </figure>
 
-## The goal: always on 24/7
+## The goal: Always on, 24/7
 
 Hospitals cannot go offline.  
 Every minute matters for patients and staff.  
 
-Cloud computing is more than a tech buzzword. In an earlier post I explained [why cloud computing matters](https://mingislight.com/2025/04/28/why-cloud-computing-matters-az-900.html).  
+Cloud computing is more than a tech buzzword. In an earlier post I explained [why cloud computing matters](https://mingislight.com/2025/04/28/why-cloud-computing-matters.html).  
 Here we look at what “always on” means inside a hospital, where every second counts.
 
 ## What “always on” looks like
@@ -33,7 +33,7 @@ MyChart, PACS, and the computers our doctors and nurses use stay available 24/7.
 2. Imaging opens quickly because PACS stays online.  
 3. Providers sign in, chart, and place orders without surprise outages.  
 4. Files follow staff across devices with OneDrive, so documents are easy to find and share.  
-5. Self service cuts waits because password resets, access requests, and two step sign in updates happen without a call.  
+5. Self-service cuts waits because password resets, access requests, and two step sign in updates happen without a call.  
 6. Staff find all their apps in one place and open the right tool fast.  
 7. Accounts stay safer because users update security contacts and watch sign in activity to report anything odd.  
 
@@ -50,7 +50,7 @@ MyChart, PACS, and the computers our doctors and nurses use stay available 24/7.
 - Local wired and Wi-Fi issues.  
 - A single Internet circuit.
 
-Cloud is a stronger foundation. We pair it with a well run local data center.
+Cloud is a stronger foundation, paired with a well-run local data center.
 
 ## How the cloud reduces downtime
 
