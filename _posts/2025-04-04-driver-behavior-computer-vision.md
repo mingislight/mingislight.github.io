@@ -45,7 +45,8 @@ The research was later published in the [Journal of Big Data (Springer Open)](ht
 
 **"Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques"**
 
-The system reached **99.1% accuracy** in detecting distraction and fatigue. It was a strong step toward safer roads.
+The system reached 99.1% accuracy on benchmarked datasets under controlled experimental conditions.
+It was a strong step toward safer roads.
 
 ---
 
@@ -54,9 +55,11 @@ The system reached **99.1% accuracy** in detecting distraction and fatigue. It w
 Think of the AI system as two teammates working together.  
 
 - One model watches the driver’s head position, hand position, and posture.  
-- The other remember how movements change over time.  
+- The other remembers how movements change over time.  
 
-Technically these are CNNs (Convolutional Neural Networks) and BiLSTMs (Bidirectional Long Short-Term Memory).
+Technically these are CNNs (Convolutional Neural Networks) and BiLSTMs (Bidirectional Long Short-Term Memory):
+CNNs and BiLSTMs are proven for spatial and temporal patterns. 
+Vision Transformers extend this by learning global context across frames.
 Together they can see the quick gaze shift, hands off the wheel, or the collapsing body posture.
 
 ---
@@ -69,7 +72,7 @@ If placed in vehicles, this system could:
 - Improve **Advanced Driver Assistance Systems (ADAS)**.  
 - Add a layer of safety for semi-autonomous and autonomous driving.  
 
-This is not surveillance of the driver. It is assistance for the road.
+This is not surveillance of the driver. No identity tracking or behavioral profiling is performed. It is assistance for the road.
 
 ---
 
