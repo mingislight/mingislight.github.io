@@ -35,7 +35,7 @@ The Plug puts you back into the source, the domain where you belong.
 
 It lets a remote computer act as if it is sitting inside the hospital building.  
 
-Without VPN, a computer is outside the family. It cannot see the domain, it cannot follow the rules, and it loses trust.  
+Without VPN, a computer is outside the trusted network. It cannot see the domain, it cannot follow the rules, and it loses trust.  
 With VPN, the computer comes home to its domain. It is recognized, supported, and able to work the way it was meant to.  
 
 ---
