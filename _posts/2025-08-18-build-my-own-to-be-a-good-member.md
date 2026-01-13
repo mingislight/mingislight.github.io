@@ -3,7 +3,7 @@ layout: post
 title: "From Building My Own Team to Becoming a Good Team Member"
 date: 2025-08-18
 author: Ming Chu
-tags: [Teamwork, Healthcare IT, Reflection, Faith, Healthcare IT]
+tags: [Teamwork, Healthcare IT, Reflection, Faith]
 image: /assets/img/bowling_event.png
 description: "A bowling night reminder that true teamwork is found in humility, joy, and serving others with the right heart."
 keywords: "teamwork, healthcare IT, Epic support, team culture, faith"
@@ -14,11 +14,11 @@ keywords: "teamwork, healthcare IT, Epic support, team culture, faith"
 </div>
 
 On April 25, our Healthcare IT team held a bowling night.  
-I did not win for strikes or spares, I actually got the trophy for **Most Gutter Balls**.  
+I did not win for strikes or spares. I actually got the trophy for **Most Gutter Balls**.  
 It made everyone laugh, including me.  
 
 The next morning, walking into the hospital, I was reminded again:  
-It is not about us, and it is never about us. We do not just work in an office. We serve in a place where lives are saved.  
+It is not about us. It never was. We do not just work in an office. We serve in a place where lives are saved.  
 What matters most is the support we give to those who care for others.  
 
 That night of fun with the team was more than just bowling. I have learned that:  
