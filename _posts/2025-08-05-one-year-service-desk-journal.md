@@ -3,7 +3,7 @@ layout: post
 title: "One-Year Service Desk Journal: Lessons from the Frontline of Healthcare IT"
 date: 2025-08-05
 author: Ming Chu
-tags: [Service Desk, Healthcare IT, Epic, Career Growth, Reflection, Healthcare IT]
+tags: [Service Desk, Healthcare IT, Epic, Career Growth, Reflection]
 image: /assets/img/service-desk.png
 description: "A one-year reflection on my journey in the Healthcare IT Service Desk — lessons on humility, growth, and supporting patient care from behind the scenes."
 keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflection"
@@ -13,7 +13,7 @@ keywords: "service desk, healthcare IT, Epic, career growth, IT support, reflect
 
 ## Service Desk: The Triage of Healthcare IT
 
-After one year serving at **Healthcare IT Service Desk**, I **appreciate being part of the triage team in Healthcare IT**:
+After one year serving on the ***Healthcare IT Service Desk***, I’ve come to appreciate being part of the triage team:
 
 > **The Service Desk is the first line of support that keeps patient care moving.**
 
@@ -78,7 +78,7 @@ At Healthcare IT, we work hand-in-hand with other IT and operational teams to ke
 - **Third-Party Applications Team** – Coordinating fixes for specialized healthcare apps.  
 - **PACS Team** – Supporting imaging systems that providers rely on for diagnoses.  
 - **System Engineering Team** – Managing servers, networking, and backend infrastructure.  
-- **Medical Record Team** – Assisting with MyChart proxy access, chart corrections, and related record requests.
+- **Medical Records Team** – Assisting with MyChart proxy access, chart corrections, and related record requests.
 
 Every escalation is an **opportunity to collaborate**.  
 We respect the expertise of each team and work together to **solve issues quickly for clinicians and patients**.
@@ -137,7 +137,7 @@ This first year at **Healthcare IT** taught me three quiet strengths:
 - **Serve first**  
 - **Keep growing each day in service and skill**
 
-I am grateful for this foundation at Healthcare IT and excited to continue learning and serving in Healthcare IT.
+I am grateful for this foundation and excited to continue learning and serving in Healthcare IT.
 
 ---
 
