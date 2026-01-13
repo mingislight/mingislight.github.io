@@ -14,7 +14,7 @@ keywords: "Azure outage, cloud, healthcare IT, Epic downtime, Microsoft outage, 
 </div>
 
 
-On October 29, 2025, Azure Cloud Service went down.  
+On October 29, 2025, Azure cloud services went down.  
 Not a small slowdown.  
 A full outage across multiple regions.
 
@@ -38,7 +38,7 @@ But outages like this show a simple truth:
 **Cloud only is convenient, but it is not complete.**
 
 When everything lives in one platform, one failure can pause everything.  
-That morning made it clear again why hybrid matters.
+That morning made it clear again why Hybrid Cloud matters.
 
 ---
 
