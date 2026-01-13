@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Cloud Computing Matters: My First Understanding After AZ-900"
+title: "Why Cloud Computing Matters: A Practical Understanding from Healthcare IT"
 date: 2025-04-28
 author: Ming Chu
 tags: [Cloud Computing, Azure, Healthcare IT, Data Analysis]
@@ -15,7 +15,7 @@ Cloud computing is changing how we work, communicate, and protect information.
 In healthcare, the impact is immediate and life-supporting.  
 
 Instead of relying only on local machines, we use the internet for tools, storage, and services.  
-The three major platforms are Microsoft Azure, Amazon AWS, and Google Cloud.  
+The three major platforms are Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
 
 The cloud gives us flexibility, security, global access, and the ability to adapt quickly.  
 It has become a core part of today’s workplace.  
@@ -54,7 +54,7 @@ The cloud lets us adapt without waiting months for new hardware or updates.
 ## Security, Compliance, and Trust
 
 Security is at the heart of healthcare IT.  
-The cloud provides encryption, multi-factor authentication, passwordless sign-in options like Windows Hello, and strict data governance.  
+The cloud provides encryption, multi-factor authentication, passwordless sign-in options such as Windows Hello and FIDO-based authentication, and strict data governance.  
 
 From my work in machine learning and data science, I know data must be protected in storage, transit, and use.  
 Cloud platforms make this possible with consistent, modern safeguards.  
@@ -102,7 +102,7 @@ I am thankful to be growing in the field of Healthcare IT.
 
 Step by step, we keep walking this walk.  
 
-Here is a lesson from the nature, the creation:  
+Here is a lesson from nature, from creation:
 
 *Go to the ant, you sluggard. Consider her ways, and be wise.  
 Which having no guide, overseer, or ruler,  
@@ -112,5 +112,3 @@ and gathereth her food in the harvest.*
 The cloud is a picture of that same wisdom. Prepare in advance, store what is needed, and be ready when the moment comes.  
 
 The same way training the body requires steady practice, training the mind in cloud and IT takes daily consistency. Both are about preparation to serve when it matters most.  
-
-If you are exploring cloud in healthcare or IT, I would be glad to share and learn together.  
