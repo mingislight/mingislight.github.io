@@ -8,8 +8,6 @@ tags: [Healthcare IT, Fitness, Longevity, Discipline]
 description: "A quiet, practical set of rules to stay steady, healthy, and useful while working in IT."
 ---
 
-## 8 Rules for Staying Fit While Working in IT
-
 <div style="text-align: center; margin: 2.5rem auto; max-width: 900px;">
   <img 
     src="/assets/img/staying-fit.png" 
