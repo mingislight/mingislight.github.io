@@ -3,6 +3,7 @@ layout: post
 title: "8 Rules for Staying Fit While Working in IT"
 date: 2026-01-13
 author: Ming Chu
+image: /assets/img/staying-fit.png
 tags: [Healthcare IT, Fitness, Longevity, Discipline]
 description: "A quiet, practical set of rules to stay steady, healthy, and useful while working in IT."
 ---
@@ -12,7 +13,7 @@ description: "A quiet, practical set of rules to stay steady, healthy, and usefu
 <div style="text-align: center; margin: 2.5rem auto; max-width: 900px;">
   <img 
     src="/assets/img/staying-fit.png" 
-    alt="Staying Fit While Working in IT"
+    alt="Staying fit and useful while working in IT"
     style="width: 100%; height: auto; border-radius: 12px;"
   >
 </div>
