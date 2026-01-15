@@ -83,8 +83,9 @@ Respect the timing.
 
 ### Rule 3: Eat simply
 
-I eat twice a day.
-Sometimes three.
+I eat thrice a day.
+Sometimes two.
+Two small meals, one big meal.
 
 No snacks.
 No soda.
