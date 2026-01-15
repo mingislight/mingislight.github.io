@@ -207,26 +207,20 @@ It is how the body stays useful and capable.
 
 ---
 
-### Rule 8: Be faithful today, with the right people around you
+### Rule 8: Be faithful today, have a fit heart
 
-I do not try to win the year.
-I focus on today. And today only.
+We do not need a big platform to matter.
+We need to be faithful where we stand.
+In the little things.
 
-“Let tomorrow worry about itself.”
-Make today complete.
+Who we are in private shows up in our work and our health.
+Be faithful in small things.
 
-I keep people around me who move and stay positive.
-Boxing.
-Jiu-jitsu.
-MMA.
+Answer each ticket well.
+Train with purpose.
+Rest when we should.
 
-People who speak life to others.
-People who do the real work.
-People who lift others up and do not complain.
-People willing to set aside their own things for someone else.
-
-I measure progress, not appearance.
-Consistency, strength, energy, and focus matter more than comparison.
+Then. Back to Rule 1.
 
 ---
 
