@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ming Chu – Healthcare IT and Machine Learning"
-description: "Epic support, cloud, and analytics professional using healthcare IT and machine learning to improve patient care."
+description: "Epic Healthy Planet–focused healthcare IT and analytics professional improving clinical operations and patient care."
 permalink: /
 canonical_url: "https://mingislight.com"
 ---
@@ -34,7 +34,7 @@ canonical_url: "https://mingislight.com"
 
 <p>
   A compliance-first, no-PHI playbook for fast healthcare IT ticket triage and routing.<br/>
-  Built from real service desk experience in regulated healthcare environments.
+  Built from real Epic service desk experience in regulated hospital environments.
 </p>
 
 <p>
@@ -48,8 +48,7 @@ canonical_url: "https://mingislight.com"
 ## 🧠 Professional Summary
 
 I connect front-line healthcare IT with applied analytics to reduce downtime and improve patient care.  
-My focus is Epic EHR support, cloud solutions, and machine learning that deliver reliable, measurable results.  
-I am building deep skill in clinical data models, Azure ML, and AI-driven decision support for real-world operations.
+My focus is Epic EHR support, cloud solutions, and applied machine learning that deliver reliable, measurable results in healthcare operations.
 
 ---
 
@@ -60,7 +59,7 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
 | Languages           | Python · SQL · JavaScript |
 | ML / Data           | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV · Power BI |
 | Cloud / DevOps      | Azure ML · Git · Jupyter · Jira |
-| Healthcare IT / EMR | Epic EHR support and troubleshooting |
+| Healthcare IT / EMR | Epic EHR support · Clinical workflow troubleshooting · Incident triage |
 | Other               | Scientific writing · Public speaking · Team collaboration |
 
 ---
@@ -99,6 +98,7 @@ I am building deep skill in clinical data models, Azure ML, and AI-driven decisi
 
 ## 🧾 Certifications
 
+- Epic Healthy Planet and Compass Rose Analytics Build — 2025  
 - Microsoft Azure Fundamentals (AZ-900) — 2025  
 - Graduate Certificate Big Data Analytics — 2024  
 - IBM Machine Learning Specialist – Associate — 2022   
