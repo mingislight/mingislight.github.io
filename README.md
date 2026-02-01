@@ -1,16 +1,16 @@
 # Ming Chu — Healthcare IT & Machine Learning
 
-Welcome to my professional blog and portfolio.  
-I work at the intersection of **front-line healthcare IT** and **predictive analytics**, turning raw data into insights that reduce downtime and improve patient care.  
-This site documents my projects, research, and lessons learned.
+Welcome to my professional blog and portfolio.
+I work at the intersection of **front-line healthcare IT** and **predictive analytics**, helping clinical teams reduce downtime and protect patient care.
+This site documents my projects, research, and lessons learned in real healthcare environments.
 
 ---
 
 ## 🧠 Professional Summary
 
-- **Healthcare IT Specialist** with experience supporting Epic EHR, cloud services, and technical troubleshooting.  
-- **Machine Learning Researcher** with first-author publications in driver behavior monitoring systems.  
-- Committed to building technology that protects and serves people.
+- **Healthcare IT Specialist** supporting Epic EHR, clinical users, and production systems.  
+- **Machine Learning Researcher** with first-author publications in driver behavior monitoring.
+- Focused on building reliable systems that reduce risk and serve patients well.
 
 ---
 
@@ -31,7 +31,7 @@ See all posts on the [**Blog**](./blog.md).
 | Languages           | Python · SQL · JavaScript |
 | ML / Data           | Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · OpenCV |
 | Cloud / DevOps      | Azure ML · Git · Jupyter · Jira |
-| Healthcare IT / EMR | Epic EHR support · Technical troubleshooting |
+| Healthcare IT / EMR | Epic EHR support · Clinical workflow troubleshooting · Incident triage |
 | Other               | Scientific writing · Public speaking · Team collaboration |
 
 ---
@@ -45,8 +45,8 @@ See all posts on the [**Blog**](./blog.md).
 
 ## 🧾 Certifications
 
-- Epic **Healthy Planet and Compass Rose** Analytics Build - 2025
-- Microsoft **Azure Fundamentals (AZ-900)** – 2025  
+- Epic **Healthy Planet and Compass Rose Analytics Build** - 2025
+- Microsoft **Azure Cloud Fundamentals AZ-900** – 2025  
 - Graduate Certificate **Big Data Analytics** – 2024  
 - IBM **Machine Learning Specialist – Associate** – 2022  
 
