@@ -115,7 +115,7 @@ My focus is Epic EHR support, cloud solutions, and applied machine learning that
   </tr>
   <tr>
     <td><strong>B.S. in Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
-    <td style="text-align:right;">UPE Honor Society · Computer Science Tutor</td>
+    <td style="text-align:right;">GPA 3.5/4.0 · UPE Honor Society · Computer Science Mentor / Instructor </td>
   </tr>
   <tr>
     <td><strong>A.S. in Computer Science</strong> — <em>Miami Dade College, 2017</em></td>
