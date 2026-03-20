@@ -110,12 +110,16 @@ My focus is Epic EHR support, cloud solutions, and applied machine learning that
 
 <table style="width:100%">
   <tr>
-    <td><strong>M.S. Computer Science (Big Data Analysis)</strong> — <em>Florida Atlantic University, 2024</em></td>
-    <td style="text-align:right;">GPA 4.0/4.0</td>
+    <td><strong>M.S. in Computer Science (Big Data Analysis)</strong> — <em>Florida Atlantic University, 2024</em></td>
+    <td style="text-align:right;">GPA 4.0/4.0 · Peer-Reviewed Publication · 3MT 2nd Runner-Up</td>
   </tr>
   <tr>
-    <td><strong>B.A. Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
-    <td style="text-align:right;">UPE Honor Society</td>
+    <td><strong>B.S. in Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
+    <td style="text-align:right;">UPE Honor Society · Computer Science Tutor</td>
+  </tr>
+  <tr>
+    <td><strong>A.S. in Computer Science</strong> — <em>Miami Dade College, 2017</em></td>
+    <td style="text-align:right;">GPA 4.0/4.0</td>
   </tr>
 </table>
 
