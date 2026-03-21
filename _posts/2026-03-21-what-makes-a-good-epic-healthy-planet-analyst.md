@@ -6,8 +6,6 @@ image: /assets/img/work_pov.png
 tags: ["Epic", "Healthy Planet", "population health", "healthcare IT", "work"]
 ---
 
-# What Makes a Good Epic Healthy Planet Analyst
-
 <div style="text-align: center; margin: 2.5rem auto; max-width: 900px;">
   <img 
     src="/assets/img/work_pov.png" 
