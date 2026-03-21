@@ -68,22 +68,21 @@ My focus is Epic EHR support, cloud solutions, and applied machine learning that
 
 <table style="width:100%">
   <tr>
+    <td><strong>Epic Healthy Planet Project</strong><br/><em>General Care Management Registry, PHQ-9 Metric, and Dashboard</em></td>
+    <td>
+      Built an Epic Healthy Planet analytics project focused on General Care Management and behavioral health tracking. Configured and validated a patient registry, PHQ-9 metric, Reporting Workbench report, and population dashboard to support care gap review, patient outreach, and follow-up work. Tested the build in the Epic training environment and completed the registry, metric, reporting, and dashboard components through hands-on analytics build work.
+    </td>
+  </tr>
+  <tr>
     <td><strong>Driver Behavior Detection System</strong></td>
     <td>
-      Built a CNN + BiLSTM pipeline achieving 99.1% accuracy to detect distraction and drowsiness with OpenCV.  
-      <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank" rel="noopener">Journal of Big Data (2024)</a>
+      Led the design and training of a multimodal deep learning model using CNN and BiLSTM for real-time driver distraction detection. Achieved 99.08% test accuracy and published the work as first author in the <a href="https://doi.org/10.1186/s40537-024-00890-0" target="_blank" rel="noopener">Journal of Big Data (2024)</a>.
     </td>
   </tr>
   <tr>
     <td><strong>AI Stock Sentiment Analysis</strong></td>
     <td>
-      Developed a real-time Twitter sentiment pipeline (RNN/LSTM) with live push alerts and 85% bullish precision.
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Healthcare IT Service Desk</strong></td>
-    <td>
-      Resolved 100+ weekly Epic and IT tickets, authored 30+ KB docs, and reduced average resolution time by 30%.
+      Built a real-time sentiment analysis pipeline using RNN and LSTM models to analyze Twitter market data. Developed a workflow that generated live mobile alerts based on sentiment signals and improved bullish sentiment signal precision to more than 85%.
     </td>
   </tr>
 </table>
