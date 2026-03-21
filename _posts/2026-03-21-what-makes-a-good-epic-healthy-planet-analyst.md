@@ -2,6 +2,7 @@
 title: "What Makes a Good Epic Healthy Planet Analyst"
 description: "Simple traits and habits that help an Epic Healthy Planet Analyst turn data, workflow, and care into real action."
 date: "2026-03-21"
+author: Ming Chu
 image: /assets/img/work_pov.png
 tags: ["Epic", "Healthy Planet", "population health", "healthcare IT", "work"]
 ---
