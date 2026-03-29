@@ -99,9 +99,7 @@ One of the most important skills is learning to ask good questions.
 
 If we change this, what else will it affect?
 
-How will the clinician use it?
-
-How will the care manager use it?
+How will the end user use it?
 
 Will this help reporting?
 
