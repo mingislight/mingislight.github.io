@@ -89,9 +89,9 @@ Epic touches every level of the healthcare system.
 
 At the most basic level, Epic helps teams use digital data to see what needs attention and act earlier.
 
-In Epic, that work can look different across teams, but the goal stays the same:
+In Epic, that work can look different across teams, but the goal stays the same.
 
-**to help people do the right work for the right patient at the right time.**
+**To help people do the right work for the right patient at the right time.**
 
 A small change in one place can affect many other areas.
 
