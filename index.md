@@ -98,7 +98,7 @@ I connect front-line healthcare IT with applied analytics and research to suppor
 
 - Epic Cosmos Researcher Badge — 2026
 - Epic Healthy Planet and Compass Rose Analytics Build — 2025  
-- Microsoft Azure Fundamentals (AZ-900) — 2025  
+- Microsoft Azure Fundamentals — 2025  
 - Graduate Certificate Big Data Analytics — 2024  
 - IBM Machine Learning Specialist – Associate — 2022   
 - Scrum.org Professional Scrum Master I (PSM I) — 2020
