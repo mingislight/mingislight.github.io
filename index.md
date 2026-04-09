@@ -47,8 +47,7 @@ canonical_url: "https://mingislight.com"
 
 ## 🧠 Professional Summary
 
-I connect front-line healthcare IT with applied analytics to reduce downtime and improve patient care.  
-My focus is Epic EHR support, cloud solutions, and applied machine learning that deliver reliable, measurable results in healthcare operations.
+I connect front-line healthcare IT with applied analytics and research to support reliable Epic systems and better patient care. My focus is Epic support, population health, Cosmos, and data-driven problem solving that helps healthcare teams improve workflow, reduce issues, and turn data into action.
 
 ---
 
@@ -97,6 +96,7 @@ My focus is Epic EHR support, cloud solutions, and applied machine learning that
 
 ## 🧾 Certifications
 
+- Epic Cosmos Researcher Badge — 2026
 - Epic Healthy Planet and Compass Rose Analytics Build — 2025  
 - Microsoft Azure Fundamentals (AZ-900) — 2025  
 - Graduate Certificate Big Data Analytics — 2024  
