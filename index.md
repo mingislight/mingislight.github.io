@@ -109,18 +109,15 @@ I connect front-line healthcare IT with applied analytics and research to suppor
 
 <table style="width:100%">
   <tr>
-    <td><strong>M.S. in Computer Science (Big Data Analysis)</strong> — <em>Florida Atlantic University, 2024</em></td>
+    <td><strong>M.S. in Computer Science</strong> — <em>Florida Atl' University, 2024</em></td>
     <td style="text-align:right;">GPA 4.0/4.0 · Peer-Reviewed Publication · 3MT 2nd Runner-Up</td>
   </tr>
   <tr>
-    <td><strong>B.S. in Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
+    <td><strong>B.S. in Computer Science</strong> — <em>Florida Int'l University, 2020</em></td>
     <td style="text-align:right;">GPA 3.5/4.0 · UPE Honor Society · Computer Science Mentor / Instructor </td>
   </tr>
 </table>
 
-**Honors**  
-- 3-Minute Thesis — 2nd Runner-Up, FAU (2024)  
-- UPE Honor Society — FIU
 
 ---
 
