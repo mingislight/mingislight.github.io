@@ -11,93 +11,90 @@ keywords: "driver safety, driver distraction, computer vision, deep learning, CN
 
 ![Driver Behavior Detection Overview](/assets/img/Driving.png)
 
-## Why This Matters
+It is late at night.
 
-It is late at night. Your eyelids grow heavy and your phone buzzes. For a few seconds your attention drifts, but the car does not stop moving.  
-In those moments, seconds decide lives.  
+Your eyelids grow heavy.
 
-The goal of our research was simple. Build an AI assistant that sees distraction or fatigue in real time and alerts the driver before it is too late.
+Your phone buzzes.
 
----
+For a few seconds your attention drifts, but the car does not stop moving.
 
-## From Research to Stage
+In those moments, a split second decides lives.
 
-This project began as my graduate research and became the focus of my **3-Minute Thesis presentation**.  
-In three minutes I shared how computer vision and deep learning can detect distraction and drowsiness inside the car.  
+That is what drove my graduate research.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
-  <iframe 
-    src="https://www.youtube.com/embed/ezQxikFTFGs?si=tt_SugehJRr1L_GW" 
-    title="3MT Presentation" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
+Build an AI assistant that sees distraction or fatigue in real time and alerts the driver before it is too late.
 
----
+This project began as my graduate research and became the focus of my 3-Minute Thesis presentation.
 
-## Published in the Journal of Big Data
+In the 3-Minute Thesis competition, I shared how computer vision and deep learning can detect distraction and drowsiness inside the car.
 
-The research was later published in the [Journal of Big Data (Springer Open)](https://link.springer.com/article/10.1186/s40537-024-00890-0):  
+The research was later published in the Journal of Big Data:  
 
-**"Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques"**
+**Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques**
 
-The system reached 99.1% accuracy on benchmarked datasets under controlled experimental conditions.
+The system reached 99.1% accuracy on benchmarked datasets under controlled conditions.
+
 It was a strong step toward safer roads.
 
----
+Think of the AI system as two teammates.
 
-## How It Works
+One watches the driver's head position, hand position, and posture.
 
-Think of the AI system as two teammates working together.  
+The other remembers how those movements change over time.
 
-- One model watches the driver’s head position, hand position, and posture.  
-- The other remembers how movements change over time.  
+Technically, these are:
 
-Technically these are CNNs (Convolutional Neural Networks) and BiLSTMs (Bidirectional Long Short-Term Memory):
-CNNs and BiLSTMs are proven for spatial and temporal patterns. 
-Vision Transformers extend this by learning global context across frames.
-Together they can see the quick gaze shift, hands off the wheel, or the collapsing body posture.
+Convolutional Neural Networks, CNNs.
 
----
+Bidirectional Long Short-Term Memory, BiLSTMs.
 
-## The Real-World Goal
+CNNs recognize spatial patterns.
 
-If placed in vehicles, this system could:  
+BiLSTMs track how those patterns change over time.
 
-- Prevent accidents caused by human error.  
-- Improve **Advanced Driver Assistance Systems (ADAS)**.  
-- Add a layer of safety for semi-autonomous and autonomous driving.  
+Together they can catch the quick gaze shift.
 
-This is not surveillance of the driver. No identity tracking or behavioral profiling is performed. It is assistance for the road.
+Hands leaving the wheel.
 
----
+A body starting to collapse from fatigue.
 
-## Looking Ahead
+If placed in vehicles, this system could prevent accidents caused by human error.
 
-The next step is training **Vision Transformers (ViT)** on large, real-world driving datasets.  
-This can bring three improvements:  
+It could improve Advanced Driver Assistance Systems.
 
-- Higher accuracy in complex environments.  
-- Better adaptation to weather and regional differences.  
-- Stronger safety when combined with radar, LiDAR, and biometric data.  
+It could add a layer of safety for semi-autonomous and autonomous driving.
 
----
+This is not surveillance.
 
-## What I Learned
+No identity tracking. No behavioral profiling.
 
-This project grew my skills in:  
+It is assistance. A second set of eyes for the road.
 
-- Designing and tuning deep learning models.  
-- Explaining complex ideas in plain language.  
-- Building technology that protects people.  
+There is still more to do.
 
-The greatest lesson was this. Technology is worth building only when it serves people like a caring passenger. Yet even the best system cannot watch over us perfectly. There is One who never sleeps and never looks away. He guards our steps, and in Him we find true safety.
+The next step is training Vision Transformers on large, real-world driving datasets.
 
----
+That means better accuracy in complex environments.
+
+Better adaptation to weather and regional differences.
+
+Stronger safety when combined with radar, LiDAR, and biometric data.
+
+This project taught me how to design and tune deep learning models.
+
+It taught me how to explain complex ideas in plain language.
+
+And it taught me that technology is worth building only when it serves people.
+
+But even the best system cannot watch over us perfectly.
+
+I hold on to this Word:
+"He who keeps you will not slumber. Behold, He who keeps Israel shall neither slumber nor sleep." 
+
+There is One who never sleeps and never looks away.
+He guards our steps.
+And in Him we find true safety.
 
 ## Read the Full Paper (Click Below)
 
@@ -105,6 +102,19 @@ The greatest lesson was this. Technology is worth building only when it serves p
 Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques
 </a>
 
+## Watch my 3MT competition (Click Below)
+
+<div markdown="0" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/ezQxikFTFGs?si=80r5Q-sr4SUoZ704&amp;start=15"
+    title="3MT Presentation"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    loading="lazy"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
+  </iframe>
+</div>
 ---
 
 [← Back to Blog](/blog)
