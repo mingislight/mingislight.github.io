@@ -39,7 +39,7 @@ See all posts on the [**Blog**](./blog.md).
 ## 🎓 Education
 
 - **M.S. Computer Science (Big Data Analysis)** – Florida Atlantic University, 2024 · GPA 4.0/4.0  
-- **B.A. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society  
+- **B.S. Computer Science (Applied Mathematics)** – Florida International University, 2020 · UPE Honor Society  
 
 ---
 
