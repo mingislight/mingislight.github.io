@@ -13,37 +13,66 @@ keywords: "VPN, healthcare IT, remote work, domain, IT support, reflection"
   <img src="/assets/img/vpn-connection.png" alt="VPN Connection" style="max-width:100%; height:auto; border-radius: 8px;">
 </div>
 
-We had a problem.  
-Some remote computers were set up incorrectly and could no longer connect to the hospital network.  
-The usual solution was heavy: ship the machines back to us, wipe them clean, put them back into the domain, and send them out again.  
+We had a problem.
 
-That was the plan.  
+Some remote computers were set up incorrectly and could no longer connect to the hospital network.
 
-But one day, by “accident,” I handled a case differently.  
-Instead of waiting for the computer to be shipped back, I worked on it remotely.  
-With VPN connected, I removed the computer from the domain and then rejoined it.  
-And it worked.  
+The usual fix was heavy.
 
-That made me stop and wonder: what exactly is VPN?  
+Ship the machines back to us.
 
----
+Wipe them clean.
 
-## What is VPN?
+Put them back into the system.
 
-A VPN is like a **long invisible cable**.  
-The Plug puts you back into the source, the domain where you belong.  
+Send them out again.
 
-It lets a remote computer act as if it is sitting inside the hospital building.  
+That was the plan.
 
-Without VPN, a computer is outside the trusted network. It cannot see the domain, it cannot follow the rules, and it loses trust.  
-With VPN, the computer comes home to its domain. It is recognized, supported, and able to work the way it was meant to.  
+But one day, what looked like an accident turned into a lesson.
 
----
+Instead of waiting for the computer to be shipped back, I worked on it remotely.
 
-## The Lesson
+With VPN connected, I removed the computer from the system and rejoined it.
 
-That small change of approach taught me something.  
-*“Without Me you can do nothing.”*  
+And it worked.
+
+That made me stop and wonder. What exactly is VPN?
+
+A VPN is like a long invisible cable.
+
+It lets a remote computer act as if it is sitting inside the hospital building.
+
+Without VPN, a computer is outside the trusted network.
+
+It cannot be recognized.
+
+It cannot follow the rules.
+
+It loses trust.
+
+With VPN, the computer comes home.
+
+It is recognized.
+
+It is supported.
+
+It can work the way it was meant to.
+
+That small change of approach taught me something.
+
+A computer that is away from its source forgets who it is meant to be.
+
+It cannot do anything about it on its own.
+
+But once it is plugged back in, it knows where it belongs.
+
+That is true for computers.
+
+It is also true for us.
+
+I hold on to this truth:
+> “Without Me you can do nothing.”*  
 
 A computer that is away from its source forgets who it is meant to be and cannot do anything about it.  
 
