@@ -116,10 +116,6 @@ I connect front-line healthcare IT with applied analytics and research to suppor
     <td><strong>B.S. in Computer Science (Applied Mathematics)</strong> — <em>Florida International University, 2020</em></td>
     <td style="text-align:right;">GPA 3.5/4.0 · UPE Honor Society · Computer Science Mentor / Instructor </td>
   </tr>
-  <tr>
-    <td><strong>A.S. in Computer Science</strong> — <em>Miami Dade College, 2017</em></td>
-    <td style="text-align:right;">GPA 4.0/4.0</td>
-  </tr>
 </table>
 
 **Honors**  
