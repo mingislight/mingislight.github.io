@@ -9,106 +9,87 @@ image: /assets/img/az900-certification.png
 
 ![Introductory Image](/assets/img/az900-certification.png)
 
-## Cloud Computing: The New Foundation for Modern Work
+Cloud computing is changing how we work in healthcare IT.
 
-Cloud computing is changing how we work, communicate, and protect information.  
-In healthcare, the impact is immediate and life-supporting.  
+But it is simpler than people think.
 
-Instead of relying only on local machines, we use the internet for tools, storage, and services.  
-The three major platforms are Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP).
+Instead of relying only on machines inside the building, we use the internet for everything: tools, storage, and services.
 
-The cloud gives us flexibility, security, global access, and the ability to adapt quickly.  
-It has become a core part of today’s workplace.  
+The big three platforms are Microsoft Azure, Amazon Web Services, and Google Cloud.
 
----
+When I studied for my AZ-900, Microsoft Azure Fundamentals, certification, five things stood out to me:
 
-## Essential Truths from AZ-900
+1. Systems can grow and expand without being rebuilt from scratch.
 
-In my AZ-900 studies, I learned five fundamentals:  
-1. **Scalability**: grow without rebuilding.  
-2. **Shared Responsibility**: providers secure the platform, we secure how we use it.  
-3. **Availability**: systems keep running even during failures.  
-4. **Cost Efficiency**: pay only for what you use.  
-5. **Security Compliance**: meet strict data protection laws with built-in tools.  
+2. Cloud Service Providers secure the platform, but we are responsible for how we use it.
 
-> Cloud service is not about blind trust. It is about verifying trust and sharing responsibility wisely.  
+3. Good systems keep running even when something fails.
 
----
+4. You only pay for what you use.
 
-## How Cloud Services Strengthen Healthcare IT
+5. Built-in tools help the systen meet strict data protection laws.
 
-In the field of Healthcare IT, cloud services support communication, storage, secure sign-ins, learning, and collaboration.  
-We combine private systems with public cloud for a **hybrid** approach, balancing reliability and innovation.  
+That last part matters deeply in healthcare.
 
----
+Patient data has to be protected at every step.
 
-## Why Cloud Flexibility Matters in Healthcare
+In storage. In transit. In use.
 
-Healthcare changes fast. Clinics open, emergencies happen, teams grow.  
-The cloud lets us adapt without waiting months for new hardware or updates.  
+Cloud platforms make that possible with modern safeguards like encryption and multi-factor sign-in.
 
-> Flexibility is not just convenience. It is a survival principle in healthcare and in life.  
+On the Service Desk, I see cloud services every day.
 
----
+Account access issues. File recovery. Application errors.
 
-## Security, Compliance, and Trust
+Many of these trace back to the cloud service.
 
-Security is at the heart of healthcare IT.  
-The cloud provides encryption, multi-factor authentication, passwordless sign-in options such as Windows Hello and FIDO-based authentication, and strict data governance.  
+Understanding how identity and service health work helps me solve problems faster.
 
-From my work in machine learning and data science, I know data must be protected in storage, transit, and use.  
-Cloud platforms make this possible with consistent, modern safeguards.  
+But behind every ticket is more than a technical issue.
 
----
+Behind it is a patient waiting.
 
-## How the Cloud Supports Daily Work
+A nurse helping a patient rooming.
 
-Cloud services make work easier and safer.  
-Staff can access files securely, collaborate in real time, and stay up-to-date automatically.  
+A family looking for answers.
 
-They work quietly in the background so people can focus on what matters most.  
+That is why I keep learning.
 
----
+Passing AZ-900 was just the start.
 
-## Lessons from the Service Desk
+It gave me a foundation.
 
-On the Service Desk, cloud knowledge helps me solve problems faster.  
-Many issues, such as account access, file recovery, and application errors, trace back to the cloud.  
+But the real learning happens when I see how cloud supports hospitals in real time.
 
-Understanding identity, service health, and backup strategies helps me serve better.  
+Healthcare changes fast.
 
-Each call is more than a technical issue. Behind it is a patient waiting, a nurse charting, or a family looking for answers. Serving well in IT means serving them.  
+New clinics open. Emergencies happen. Teams grow.
 
-> In both technology and life, what truly matters happens beneath the surface.  
+Cloud lets us adapt without waiting months for new hardware.
 
----
+That flexibility keeps care moving.
 
-## Moving Forward
+As technology is growing every day, I am too growing deeper in cloud knowledge and applying it daily.
 
-Passing AZ-900 was just the start.  
-It showed me how the cloud, used wisely, can strengthen any healthcare organization.  
+Step by step.
 
-This foundation came alive when I saw how “always on” cloud supports hospitals in real time.  
-I wrote about what that looks like here: [Always On: Why Cloud Matters in a Hospital](/2025/08/16/always-on.html).  
+I think about the ant in Proverbs:
+> "Go to the ant, you sluggard. Consider her ways, and be wise."
 
-I am committed to growing deeper in cloud knowledge, building my computer science foundation, and applying machine learning skills daily.  
+The ant has no boss standing over it.
 
----
+But it prepares in advance.
 
-## Final Thoughts
+It stores what is needed.
 
-Cloud computing strengthens the systems that support life, work, and care.  
-I am thankful to be growing in the field of Healthcare IT.  
+It stays ready.
 
-Step by step, we keep walking this walk.  
+Cloud is a picture of that same wisdom.
 
-Here is a lesson from nature, from creation:
+Prepare before the moment comes.
 
-*Go to the ant, you sluggard. Consider her ways, and be wise.  
-Which having no guide, overseer, or ruler,  
-provideth her meat in the summer,  
-and gathereth her food in the harvest.*  
+Build so care does not stop.
 
-The cloud is a picture of that same wisdom. Prepare in advance, store what is needed, and be ready when the moment comes.  
+The same way training the body takes daily practice, training the mind in IT takes daily consistency.
 
-The same way training the body requires steady practice, training the mind in cloud and IT takes daily consistency. Both are about preparation to serve when it matters most.  
+Both are about being ready to serve when it matters most.
