@@ -13,69 +13,60 @@ keywords: "healthcare IT, cloud computing, Azure, Epic, EHR, MyChart, PACS, upti
   <img src="/assets/img/always-on.png" alt="Hospital lit at night. Systems stay online for patient care.">
 </figure>
 
-## The goal: Always on, 24/7
+Hospitals cannot go offline.
 
-Hospitals cannot go offline.  
-Every minute matters for patients and staff.  
+Every minute matters for patients and staff.
 
-Cloud computing is more than a tech buzzword. In an earlier post I explained [why cloud computing matters](https://mingislight.com/2025/04/28/why-cloud-computing-matters.html).  
-Here we look at what “always on” means inside a hospital, where every second counts.
+That is not just a goal on paper.
 
-## What “always on” looks like
+It is what keeps care moving.
 
-The same system runs in more than one safe location at the same time.  
-If one place has a problem, traffic moves to the healthy place.  
-MyChart, PACS, and the computers our doctors and nurses use stay available 24/7.
+When a patient checks their results at midnight through the patient portal, the system has to be there.
 
-## Everyday benefits you can feel
+When a nurse pulls up imaging at the bedside, it has to load.
 
-1. Patients use MyChart day and night to check results and send messages.  
-2. Imaging opens quickly because PACS stays online.  
-3. Providers sign in, chart, and place orders without surprise outages.  
-4. Files follow staff across devices with OneDrive, so documents are easy to find and share.  
-5. Self-service cuts waits because password resets, access requests, and two step sign in updates happen without a call.  
-6. Staff find all their apps in one place and open the right tool fast.  
-7. Accounts stay safer because users update security contacts and watch sign in activity to report anything odd.  
+When a provider signs in to place an order, it has to work.
 
-## What this protects
+There is no good time for an outage in a hospital.
 
-- Epic MyChart front ends and the tools providers use at the bedside.  
-- Imaging and report delivery.  
-- Patient portals and scheduling.  
-- Secure remote access and telehealth.
+That is why cloud matters in healthcare IT.
 
-## What the cloud does not fix
+The same system runs in more than one safe location at the same time.
 
-- Power in your building.  
-- Local wired and Wi-Fi issues.  
-- A single Internet circuit.
+If one place has a problem, traffic moves to the healthy place.
 
-Cloud is a stronger foundation, paired with a well-run local data center.
+Care does not stop.
 
-## How the cloud reduces downtime
+But cloud alone is not enough.
 
-- Two or more locations run the same service.  
-- If one fails, the system switches over automatically.  
-- Updates happen in small steps so care does not stop.  
-- Extra capacity appears during traffic peaks.  
-- Backups run in the background, and restorations are fast when needed.
+It does not fix the power in your building.
 
-## A simple hospital setup that works
+It does not fix a broken Wi-Fi connection.
 
-- App servers in more than one location (public cloud + local).  
-- Databases with high availability and quick failover.  
-- Backups in a second region and regular restoration tests.  
-- Private connections from sites to cloud with at least two paths.  
-- Central monitoring and alerts that reach on-call staff.
+It does not fix a single internet line with no backup.
 
-## Why this matters
+Cloud is a stronger foundation.
 
-Less downtime means fewer delays in our services.  
-Patients get care faster.  
+But it works best when it is paired with a well-run local system.
+
+That is why I study cloud.
+
+Not to chase certifications.
+
+Not to impress anyone.
+
+I study it because less downtime means fewer delays in care.
+
+Patients get help faster.
+
+Staff can focus on the person in front of them instead of fighting the system.
+
 That is the win.
 
-> “By love serve one another.”
+> Let's always go back to the basics:
+"**By love** serve one another."
 
-I study cloud service to serve better in healthcare IT.  
-If one person is helped and a patient is cared for faster, it is worth it.  
-Serve with Knowledge, for one another.
+If one person is helped and a patient is cared for faster, it is worth it.
+Serve with knowledg, in love.
+Serve for one another.
+
