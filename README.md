@@ -45,6 +45,7 @@ See all posts on the [**Blog**](./blog.md).
 
 ## 🧾 Certifications
 
+- Epic **Cosmos Researcher Badge** - 2026
 - Epic **Healthy Planet and Compass Rose Analytics Build** - 2025
 - Microsoft **Azure Cloud Fundamentals AZ-900** – 2025  
 - Graduate Certificate **Big Data Analytics** – 2024  
