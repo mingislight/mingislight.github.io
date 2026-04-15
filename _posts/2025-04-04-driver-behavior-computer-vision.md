@@ -90,10 +90,13 @@ And it taught me that technology is worth building only when it serves people.
 But even the best system cannot watch over us perfectly.
 
 I hold on to this Word:
-"He who keeps you will not slumber. Behold, He who keeps Israel shall neither slumber nor sleep." 
+
+>"He who keeps you will not slumber. Behold, He who keeps Israel shall neither slumber nor sleep." 
 
 There is One who never sleeps and never looks away.
+
 He guards our steps.
+
 And in Him we find true safety.
 
 ## Read the Full Paper (Click Below)
@@ -102,19 +105,12 @@ And in Him we find true safety.
 Comprehensive Study of Driver Behavior Monitoring Systems Using Computer Vision and Machine Learning Techniques
 </a>
 
-## Watch my 3MT competition (Click Below)
+## Watch the 3MT Competition (Click Below)
 
-<div markdown="0" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 20px 0;">
-  <iframe 
-    src="https://www.youtube.com/embed/ezQxikFTFGs?si=80r5Q-sr4SUoZ704&amp;start=15"
-    title="3MT Presentation"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    loading="lazy"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
-  </iframe>
-</div>
+<a href="https://www.youtube.com/watch?v=ezQxikFTFGs&t=15s">
+  3MT Presentation: Machine Learning for In-Cabin Vehicle Safety
+</a>
+
 ---
 
 [← Back to Blog](/blog)
