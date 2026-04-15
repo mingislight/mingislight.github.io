@@ -1,20 +1,19 @@
 ---
+layout: post
 title: "What Makes a Good Epic Analyst"
-description: "Simple traits and habits that help an Epic analyst support care, workflow, and real action."
-date: "2026-03-21"
+date: 2026-03-21
 author: Ming Chu
-image: /assets/img/work_pov.png
-tags: ["Epic", "healthcare IT", "work"]
+image: /assets/img/population_health.png
+tags: [Epic, Healthcare IT, Work]
+description: "Simple traits and habits that help an Epic analyst turn data, care, and daily work into real action."
 ---
 
 <div style="text-align: center; margin: 2.5rem auto; max-width: 900px;">
-
   <img 
-    src="/assets/img/work_pov.png" 
+    src="/assets/img/population_health.png" 
     alt="Working well with others in a healthcare IT setting"
     style="width: 100%; height: auto; border-radius: 12px;"
   >
-
 </div>
 
 If you want to become a good Epic analyst, start here.
