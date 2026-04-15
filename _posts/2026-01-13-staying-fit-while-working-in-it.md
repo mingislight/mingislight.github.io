@@ -83,7 +83,7 @@ Respect the timing.
 
 ### Rule 3: Eat simply
 
-I eat thrice a day.
+I eat three times a day.
 Sometimes two.
 Two small meals, one big meal.
 
@@ -119,7 +119,8 @@ Most days, less truly is more.
 Doing less, consistently, does more than any hard workout.
 
 Less is more.
-But not lesser.
+Keep it simple.
+Keep it consistent.
 
 ---
 
