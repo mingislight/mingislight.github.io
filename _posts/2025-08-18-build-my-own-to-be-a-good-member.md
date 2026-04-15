@@ -13,32 +13,42 @@ keywords: "teamwork, healthcare IT, Epic support, team culture, faith"
   <img src="/assets/img/bowling_event.png" alt="Bowling Event" style="max-width:100%; height:auto; border-radius: 8px;">
 </div>
 
-On April 25, our Healthcare IT team held a bowling night.  
-I did not win for strikes or spares. I actually got the trophy for **Most Gutter Balls**.  
-It made everyone laugh, including me.  
+n April 25, our Healthcare IT team held a bowling night.
 
-The next morning, walking into the hospital, I was reminded again:  
-It is not about us. It never was. We do not just work in an office. We serve in a place where lives are saved.  
-What matters most is the support we give to those who care for others.  
+I did not win for strikes or spares.
 
-That night of fun with the team was more than just bowling. I have learned that:  
+I got the trophy for **Most Gutter Balls.**
 
-- A healthy team makes room for both joy and purpose.  
-- Chemistry is built not only through projects but also through shared moments.  
-- Being a good team member means showing up, encouraging others, and remembering that the purpose behind the work is bigger than ourselves.  
+It made everyone laugh, including me.
 
-In the past, when I was starting my own company, I poured time and energy into trying to build the right team.  
-I searched for people with skills and personalities that could fit together like puzzle pieces.  
-My focus was on finding the perfect balance to create something of my own.  
+The next morning, walking into the hospital, I was reminded again.
 
-Now, in this season, I am learning what it means to simply be a good team member.  
-To serve where I am placed, to do the best within my ability, and to support those who bring healing to others.  
+We do not just work in an office.
 
-The Word says: *“Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.”*  
+We serve in a place where lives are saved.
 
-This is the heart of teamwork:  
-Lift others up first and not ourselves.  
-Even a small trophy for gutter balls becomes a reminder. Joy and humility go hand in hand.  
+In the past, when I was building my own company, I spent so much energy trying to find the right team.
 
-Grateful to be part of a team that makes space for both fun and purpose, where even gutter balls can teach us about grace.  
-True success is not about how important we are, but about how faithful we are with the small things where we are placed.
+I searched for the perfect balance of skills and personalities.
+
+My focus was on building something of my own.
+
+Now I am learning something different.
+
+What it means to simply be a good team member.
+
+To serve where I am placed.
+
+To support those who bring healing to others.
+
+A healthy team makes room for both joy and purpose.
+
+Chemistry is not only built through projects.
+
+It is built through shared moments.
+
+I hold on to this truth:
+>"Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself."
+
+Even a small trophy for gutter balls can be a reminder.
+Joy and humility go hand in hand.
