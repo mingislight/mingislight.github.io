@@ -15,6 +15,3 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-markdown: kramdown
-kramdown:
-  parse_block_html: true
