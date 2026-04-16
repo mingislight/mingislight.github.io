@@ -95,6 +95,4 @@ It is about carrying that same care into work that can reach many people at once
 
 The work gets bigger. But the heart should stay the same.
 
-I hold on to this truth:
-
 > “Whoever can be trusted with very little can also be trusted with a lot.<br>
