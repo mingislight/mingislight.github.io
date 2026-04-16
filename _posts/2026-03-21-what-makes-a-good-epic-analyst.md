@@ -144,5 +144,4 @@ That kind of person can make a real difference over time.
 
 That is the kind of work worth doing.
 
-I keep this in my heart:
 > “Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.”
