@@ -106,7 +106,6 @@ And collaboration builds trust.
 IT is strongest when we serve together.
 
 This is why I serve on the Service Desk:
-
-> "Whatever you do, do it heartily, as to the Lord and not to men."
+> "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
 
 One ticket. One person. One fix at a time.
