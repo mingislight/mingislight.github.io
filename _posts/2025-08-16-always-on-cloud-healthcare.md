@@ -63,8 +63,8 @@ Staff can focus on the person in front of them instead of fighting the system.
 
 That is the win.
 
-> Let's always go back to the basics:
-"**By love** serve one another."
+Let's always go back to the basics:
+> "**By love,** serve one another."
 
 If one person is helped and a patient is cared for faster, it is worth it.
 Serve with knowledg, in love.
