@@ -71,8 +71,7 @@ That is true for computers.
 
 It is also true for us.
 
-I hold on to this truth:
-> “Without Me you can do nothing.”*  
+> “I am the vine, and you are the branches. If you stay joined to me, and I stay joined to you, then you will produce lots of fruit. But you cannot do anything without me.”
 
 A computer that is away from its source forgets who it is meant to be and cannot do anything about it.  
 
