@@ -47,7 +47,6 @@ Chemistry is not only built through projects.
 
 It is built through shared moments.
 
-I hold on to this truth:
 >"Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself."
 
 Even a small trophy for gutter balls can be a reminder.
