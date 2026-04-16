@@ -89,8 +89,6 @@ And it taught me that technology is worth building only when it serves people.
 
 But even the best system cannot watch over us perfectly.
 
-I hold on to this Word:
-
 >"He who keeps you will not slumber. Behold, He who keeps Israel shall neither slumber nor sleep." 
 
 There is One who never sleeps and never looks away.
