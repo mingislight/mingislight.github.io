@@ -55,7 +55,6 @@ See all posts on the [**Blog**](./blog.md).
 
 ## 📫 Connect
 
-- 📍 Bozeman, Montana  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mingislight)  
 
 ---
