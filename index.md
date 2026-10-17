@@ -120,5 +120,3 @@ I connect front-line healthcare IT with applied analytics and research to suppor
 
 
 ---
-
-<p><a href="/feed.xml">Subscribe via RSS</a></p>
