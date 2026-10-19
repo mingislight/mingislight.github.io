@@ -1,4 +1,4 @@
-# Ming Chu — Healthcare IT & Machine Learning
+# Ming — Healthcare IT & Machine Learning
 
 Welcome to my professional blog and portfolio.
 I work at the intersection of **front-line healthcare IT** and **predictive analytics**, helping clinical teams reduce downtime and protect patient care.
