@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ming Chu – Healthcare IT and Machine Learning"
+title: "Ming – Healthcare IT and Machine Learning"
 description: "Epic Healthy Planet–focused healthcare IT and analytics professional improving clinical operations and patient care."
 permalink: /
 canonical_url: "https://mingislight.com"
