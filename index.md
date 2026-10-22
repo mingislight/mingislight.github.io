@@ -114,7 +114,7 @@ I connect front-line healthcare IT with applied analytics and research to suppor
   </tr>
   <tr>
     <td><strong>B.S. in Computer Science</strong> — <em>Florida Int'l University, 2020</em></td>
-    <td style="text-align:right;">UPE Honor Society · Computer Science Instructor · Collegiate Boxer</td>
+    <td style="text-align:right;">UPE Honor Society · Computer Science Instructor</td>
   </tr>
 </table>
 
